@@ -1,0 +1,343 @@
+# id	src_ip		dst_ip		proto	sport	dport	dwpkts	uppkts	dwbytes	upbytes	t_start			t_last			app_id	sub_id	app_details	confidence		PACKAGE		DNS		DIG		WHOIS
+• 18	192.168.20.105	216.58.205.138	6	47345	443	8	9	8	1731	1543234174.936261	1543234175.100637	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 3	192.168.20.105	52.35.0.252	6	55200	443	0	1	0	60	1543234152.999246	1543234152.999246	0	0	Other_TCP	0		AMAZON		UNKNOWN		ec2-52-35-0-252.us-west-2.compute.amazonaws.com.		OrgName:        Amazon Technologies Inc.
+• 2	192.168.20.105	52.35.0.252	6	55200	443	0	1	0	60	1543234144.974244	1543234144.974244	0	0	Other_TCP	0		AMAZON		UNKNOWN		ec2-52-35-0-252.us-west-2.compute.amazonaws.com.		OrgName:        Amazon Technologies Inc.
+• 0	192.168.20.105	52.35.0.252	6	55200	443	0	1	0	60	1543234140.961242	1543234140.961242	0	0	Other_TCP	0		AMAZON		UNKNOWN		ec2-52-35-0-252.us-west-2.compute.amazonaws.com.		OrgName:        Amazon Technologies Inc.
+• 19	192.168.20.105	8.8.8.8		17	35227	53	1	1	1	72	1543234175.091255	1543234175.124626	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 16	192.168.20.105	8.8.8.8		17	58243	53	1	1	1	65	1543234172.706258	1543234172.738876	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 8	192.168.20.105	8.8.8.8		17	62363	53	1	1	1	71	1543234169.299251	1543234169.332663	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 4	192.168.20.105	8.8.8.8		17	63847	53	1	1	1	72	1543234155.551248	1543234155.584873	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 14	192.168.20.105	8.8.8.8		17	64588	53	1	1	1	59	1543234171.564257	1543234171.597473	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 5	192.168.20.105	216.58.205.46	17	34525	443	113	88	113	13339	1543234158.639250	1543234174.720261	0	0	Other_UDP	0		GOOGLE		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 6	192.168.20.105	216.58.205.46	6	44239	443	8	10	8	850	1543234158.667249	1543234169.284256	501	0	Google		100		com.android.vending		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 7	192.168.20.105	216.58.205.46	6	44240	443	8	10	8	850	1543234158.696252	1543234169.285252	501	0	Google		100		com.android.vending		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 15	192.168.20.105	216.58.205.65	6	44456	443	15	16	15	1550	1543234171.641254	1543234171.917306	501	0	SSL_with_certificate	100		com.android.vending		lh5.ggpht.com		NOT_REQUIRED		OrgName:        Google LLC
+• 9	192.168.20.105	216.58.205.129	6	34602	443	26	24	26	2343	1543234169.350254	1543234169.681481	501	0	Google		100		com.android.vending		lh3.googleusercontent.com		NOT_REQUIRED		OrgName:        Google LLC
+• 10	192.168.20.105	216.58.205.129	6	34603	443	8	10	8	831	1543234169.369255	1543234169.535252	501	0	Google		100		com.android.vending		lh3.googleusercontent.com		NOT_REQUIRED		OrgName:        Google LLC
+• 11	192.168.20.105	216.58.205.129	6	34604	443	8	9	8	779	1543234169.373254	1543234169.540258	501	0	Google		100		com.android.vending		lh3.googleusercontent.com		NOT_REQUIRED		OrgName:        Google LLC
+• 12	192.168.20.105	216.58.205.129	6	34605	443	8	9	8	779	1543234169.385255	1543234169.547252	501	0	Google		100		com.android.vending		lh3.googleusercontent.com		NOT_REQUIRED		OrgName:        Google LLC
+• 13	192.168.20.105	216.58.205.129	17	53613	443	159	113	159	12906	1543234169.681255	1543234171.834258	0	0	Other_UDP	0		GOOGLE		lh3.googleusercontent.com		NOT_REQUIRED		OrgName:        Google LLC
+• 17	192.168.20.105	216.58.205.138	6	45999	443	22	21	22	13210	1543234172.757253	1543234173.396259	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 21	192.168.20.105	216.58.205.138	6	55499	443	8	9	8	1746	1543234242.931286	1543234243.086989	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 68	192.168.20.105	185.151.204.8	6	36725	443	8	11	8	2032	1543234451.814387	1543234452.319286	501	0	SSL_with_certificate	100		ADJUST		UNKNOWN		UNKNOWN		org-name:       Adjust GmbH
+• 73	192.168.20.105	8.8.4.4		17	64996	53	1	1	1	76	1543234456.815387	1543234456.889888	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-b.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 25	192.168.20.105	8.8.8.8		17	4719	53	1	1	1	65	1543234306.528322	1543234306.561710	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 34	192.168.20.105	8.8.8.8		17	4293	53	1	1	1	64	1543234313.885319	1543234313.919853	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 45	192.168.20.105	8.8.8.8		17	8959	53	1	1	1	65	1543234327.244336	1543234327.277852	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 51	192.168.20.105	8.8.8.8		17	10924	53	1	1	1	61	1543234379.809352	1543234379.825297	501	0	Viber		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 38	192.168.20.105	8.8.8.8		17	11690	53	1	1	1	80	1543234317.473322	1543234317.522966	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 29	192.168.20.105	8.8.8.8		17	16954	53	1	1	1	74	1543234308.691317	1543234308.724574	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 44	192.168.20.105	8.8.8.8		17	18130	53	1	1	1	70	1543234320.446325	1543234320.487409	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 43	192.168.20.105	8.8.8.8		17	20183	53	1	1	1	61	1543234319.991323	1543234320.023655	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 47	192.168.20.105	8.8.8.8		17	27952	53	1	1	1	61	1543234331.153330	1543234331.202789	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 40	192.168.20.105	8.8.8.8		17	30240	53	1	1	1	70	1543234318.884325	1543234318.900242	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 23	192.168.20.105	8.8.8.8		17	27588	53	1	1	1	64	1543234300.197319	1543234300.213041	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 31	192.168.20.105	8.8.8.8		17	26870	53	1	1	1	60	1543234308.904322	1543234308.937463	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 41	192.168.20.105	8.8.8.8		17	29182	53	1	1	1	65	1543234319.343321	1543234319.376988	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 80	192.168.20.105	8.8.8.8		17	35360	53	1	1	1	62	1543234468.442401	1543234468.484814	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 64	192.168.20.105	8.8.8.8		17	56760	53	1	1	1	70	1543234448.862385	1543234448.896083	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 61	192.168.20.105	8.8.8.8		17	60974	53	1	1	1	73	1543234442.778383	1543234442.812271	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 71	192.168.20.105	8.8.8.8		17	61057	53	1	1	1	72	1543234455.841387	1543234455.857430	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 77	192.168.20.105	8.8.8.8		17	61320	53	1	1	1	61	1543234463.949388	1543234463.982171	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 67	192.168.20.105	8.8.8.8		17	64210	53	2	2	2	152	1543234451.726387	1543234461.752340	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 72	192.168.20.105	216.58.198.46	6	42704	443	19	17	19	2401	1543234455.867386	1543234478.381398	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 74	192.168.20.105	216.58.198.46	6	47568	443	58	36	58	10017	1543234457.214390	1543234478.588400	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 82	192.168.20.105	216.58.198.46	6	50108	443	13	13	13	1594	1543234470.188395	1543234479.787397	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 79	192.168.20.105	216.58.198.46	6	52079	443	11	11	11	1480	1543234464.290398	1543234478.119397	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 76	192.168.20.105	216.58.198.46	6	52896	443	12	11	12	1423	1543234463.322394	1543234478.996401	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 30	192.168.20.105	216.58.205.42	17	38692	443	12	11	12	5704	1543234308.779317	1543234324.096517	0	0	Other_UDP	0		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 37	192.168.20.105	216.58.205.46	6	36159	443	11	11	11	1675	1543234314.282323	1543234435.563376	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 57	192.168.20.105	216.58.205.46	6	36029	443	19	19	19	2905	1543234435.301376	1543234507.563411	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 56	192.168.20.105	216.58.205.46	6	41757	443	53	53	53	34165	1543234427.912377	1543234464.520396	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 28	192.168.20.105	216.58.205.46	6	42010	443	22	23	22	5489	1543234307.683322	1543234344.247334	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 36	192.168.20.105	216.58.205.46	6	46324	443	13	11	13	1942	1543234313.986323	1543234388.992359	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 24	192.168.20.105	216.58.205.46	6	55578	443	21	17	21	3426	1543234305.280321	1543234428.535373	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 49	192.168.20.105	216.58.205.46	6	56986	443	16	13	16	2976	1543234343.748343	1543234442.606382	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 55	216.58.205.65	192.168.20.105	6	443	44456	3	4	3	271	1543234411.852504	1543234411.948454	0	0	Other_TCP	0		UNKNOWN		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 63	192.168.20.105	216.58.205.74	6	53315	443	109	88	109	21980	1543234448.343384	1543234467.135520	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 42	192.168.20.105	216.58.205.78	6	58113	443	12	14	12	3107	1543234319.381322	1543234470.459395	501	0	SSL_with_certificate	100		UNKNOWN		android.clients.google.com
+app-measurement.com
+android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 88	192.168.20.105	216.58.205.106	6	45144	443	10	10	10	1862	1543234478.530400	1543234488.786407	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 54	216.58.205.129	192.168.20.105	6	443	34602	2	3	2	219	1543234409.612681	1543234409.768599	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 78	192.168.20.105	216.58.205.131	6	47131	443	12	11	12	1527	1543234464.011390	1543234464.300009	501	0	Google		100		GOOGLE		ssl.gstatic.com		NOT_REQUIRED		OrgName:        Google LLC
+• 32	192.168.20.105	216.58.205.132	6	43683	443	17	19	17	1953	1543234308.962321	1543234549.690231	501	0	Google		100		com.google.android.apps.maps		www.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 33	192.168.20.105	216.58.205.132	17	53608	443	215	113	215	10656	1543234309.934322	1543234312.243318	0	0	Other_UDP	0		GOOGLE		www.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 53	192.168.20.105	216.58.205.138	6	45999	443	18	16	18	10149	1543234389.854361	1543234552.901430	0	0	Other_TCP	0		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 46	192.168.20.105	216.58.205.141	6	42602	443	722	413	722	48222	1543234327.299327	1543234504.204412	501	0	Google		100		com.google.android.gms.ui		accounts.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 48	192.168.20.105	216.58.205.142	6	39550	443	80	76	80	13491	1543234331.246332	1543234504.205410	501	0	Google		100		com.google.android.gms.ui		android.clients.google.com
+clients4.google.com
+play.google.com
+android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 52	192.168.20.105	216.58.205.202	6	38537	443	34	31	34	16206	1543234388.624358	1543234453.435387	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 105	192.168.20.105	216.58.205.202	6	37836	443	10	11	10	1896	1543234522.920420	1543234527.684769	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 106	192.168.20.105	216.58.205.202	6	51478	443	8	10	8	1813	1543234539.917425	1543234552.900434	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 50	192.168.20.105	216.58.205.202	6	50905	443	10	10	10	1763	1543234343.994337	1543234442.518383	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 62	192.168.20.105	216.58.205.202	6	54913	443	25	23	25	4323	1543234442.825379	1543234446.446364	501	0	Google		100		GOOGLE_MAPS		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 22	192.168.20.105	193.206.135.14	6	34696	443	93	51	93	3911	1543234243.078289	1543234243.595725	501	0	SSL_with_certificate	100		GOOGLE		r3---sn-b5gg-ca9e.gvt1.com		NOT_REQUIRED		UNKNOWN
+• 20	192.168.20.105	193.206.135.14	6	47717	443	18794	9462	18794	493415	1543234175.131255	1543234222.438816	501	0	SSL_with_certificate	100		GOOGLE		r3---sn-b5gg-ca9e.gvt1.com		NOT_REQUIRED		UNKNOWN
+• 86	192.168.20.105	172.217.23.66	6	46546	443	10	10	10	1241	1543234478.420400	1543234484.309398	501	0	Google		100		GOOGLE		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 85	192.168.20.105	172.217.23.66	6	51896	443	8	11	8	1338	1543234478.182400	1543234483.414403	501	0	Google		100		GOOGLE		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 91	192.168.20.105	172.217.23.66	6	60058	443	8	10	8	1241	1543234478.824403	1543234485.217400	501	0	Google		100		GOOGLE		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 65	192.168.20.105	172.217.23.74	6	38101	443	56	38	56	11618	1543234448.903382	1543234468.592755	501	0	Google		100		UNKNOWN		play.googleapis.com
+instantmessaging-pa.googleapis.com
+people-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 114	192.168.20.105	172.217.23.106	6	34176	443	14	18	14	2359	1543234566.575444	1543234566.856235	501	0	Google		100		UNKNOWN		www.googleapis.com
+instantmessaging-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 39	192.168.20.105	172.217.23.106	6	43122	443	36	36	36	22356	1543234317.576325	1543234566.349436	501	0	Google		100		UNKNOWN		www.googleapis.com
+instantmessaging-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 102	192.168.20.105	64.233.184.188	6	47814	5228	0	10	0	5560	1543234503.947413	1543234568.087438	0	0	Other_TCP	0		UNKNOWN		UNKNOWN		wa-in-f188.1e100.net.		OrgName:        Google LLC
+• 95	192.168.20.105	204.79.197.213	6	54281	443	13	11	13	2795	1543234482.659399	1543234548.747730	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 66	192.168.20.105	224.0.0.251	17	5353	5353	0	11	0	979	1543234451.398388	1543234559.063435	501	0	MDNS		100		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 1	237.24.204.191	76.83.68.88	255	0	0	23	24	23	1104	1543234142.910248	1543234549.759430	0	0	ARP		0		UNKNOWN		UNKNOWN		wifi-76-83-68-88.inf.spectrum.com.		OrgName:        Charter Communications Inc
+• 87	192.168.20.105	8.8.8.8		17	38078	53	1	1	1	85	1543234478.480399	1543234478.515550	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 113	192.168.20.105	8.8.8.8		17	48449	53	1	1	1	73	1543234566.533439	1543234566.567384	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 84	192.168.20.105	8.8.8.8		17	49439	53	1	1	1	73	1543234478.144400	1543234478.177727	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 108	192.168.20.105	8.8.8.8		17	56282	53	1	1	1	78	1543234554.838434	1543234554.872516	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 94	192.168.20.105	8.8.8.8		17	60364	53	1	1	1	62	1543234482.565400	1543234482.615399	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 92	192.168.20.105	8.8.8.8		17	60387	53	1	1	1	100	1543234479.037398	1543234479.076256	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 89	192.168.20.105	8.8.8.8		17	64963	53	1	1	1	80	1543234478.575397	1543234478.627492	501	0	DNS		100		UNKNOWN		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 81	192.168.20.105	40.90.136.163	6	43700	443	2549	4150	2549	6121745	1543234468.526398	1543234571.486443	501	0	SSL_with_certificate	100		UNKNOWN		storage.live.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 115	192.168.20.105	216.58.198.46	6	33358	443	19	13	19	3110	1543234566.612440	1543234568.583437	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 107	192.168.20.105	216.58.198.46	6	33150	443	11	10	11	1889	1543234554.522435	1543234554.764438	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 97	192.168.20.105	216.58.198.46	6	40460	443	13	11	13	1423	1543234483.487398	1543234566.665438	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 111	192.168.20.105	216.58.198.46	6	41060	443	10	8	10	1236	1543234565.515437	1543234565.932440	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 104	192.168.20.105	216.58.198.46	17	45675	443	22	18	22	8117	1543234509.190414	1543234510.773413	0	0	Other_UDP	0		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 98	192.168.20.105	216.58.198.46	6	46922	443	21	23	21	18260	1543234483.982404	1543234567.026440	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 110	192.168.20.105	216.58.198.46	6	46807	443	12	12	12	1956	1543234565.500440	1543234569.290441	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 112	192.168.20.105	216.58.198.46	6	50834	443	11	9	11	1300	1543234566.066440	1543234566.653437	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 99	192.168.20.105	216.58.198.46	6	52549	443	13	12	13	1881	1543234484.921400	1543234489.341401	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 96	192.168.20.105	216.58.198.46	6	57041	443	12	11	12	1423	1543234482.807400	1543234565.947438	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 101	192.168.20.105	216.58.205.42	17	38692	443	4	3	4	1115	1543234502.032413	1543234517.076334	0	0	Other_UDP	0		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 60	192.168.20.105	216.58.205.46	6	37432	443	72	64	72	28134	1543234442.384383	1543234565.819437	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 58	192.168.20.105	216.58.205.46	17	34525	443	40	28	40	5491	1543234435.644382	1543234523.661878	0	0	Other_UDP	0		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 109	192.168.20.105	216.58.205.42	6	54390	443	14	16	14	2556	1543234554.883432	1543234555.172357	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 59	192.168.20.105	216.58.205.46	6	60755	443	72	58	72	14516	1543234442.335379	1543234554.802438	501	0	Google		100		UNKNOWN		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 90	192.168.20.105	216.58.205.74	6	33140	443	18	19	18	5342	1543234478.641396	1543234479.304136	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 100	192.168.20.105	216.58.205.132	17	53608	443	10	7	10	1277	1543234501.485408	1543234516.518625	0	0	Other_UDP	0		UNKNOWN		www.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 27	192.168.20.105	216.58.205.142	6	39547	443	10	11	10	883	1543234306.661321	1543234546.836430	501	0	Google		100		com.google.android.apps.maps		android.clients.google.com
+clients4.google.com
+play.google.com
+android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 26	192.168.20.105	216.58.205.142	17	60940	443	902	509	902	63385	1543234306.627316	1543234522.394421	0	0	Other_UDP	0		UNKNOWN		android.clients.google.com
+clients4.google.com
+play.google.com
+android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 70	192.168.20.105	216.58.205.202	6	33267	443	70	64	70	12210	1543234453.388389	1543234494.119402	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 35	192.168.20.105	216.58.205.202	6	36086	443	111	90	111	47545	1543234313.926322	1543234569.049438	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 103	192.168.20.105	216.58.205.202	6	42756	443	22	26	22	22057	1543234507.224414	1543234514.356418	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 83	192.168.20.105	216.58.205.202	6	41797	443	74	77	74	22575	1543234477.812399	1543234480.311397	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 69	192.168.20.105	216.58.205.202	6	41366	443	36	36	36	12099	1543234452.694389	1543234527.729418	501	0	Google		100		UNKNOWN		play.googleapis.com
+mobilemaps-pa.googleapis.com
+www.googleapis.com
+instantmessaging-pa.googleapis.com
+reminders-pa.googleapis.com
+people-pa.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+cryptauthenrollment.googleapis.com
+auditrecording-pa.googleapis.com
+playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 93	192.168.20.105	173.194.76.81	6	54302	443	26	24	26	10945	1543234479.120401	1543234490.208422	501	0	Google		100		UNKNOWN		phonedeviceverification-pa-prod.sandbox.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 75	192.168.20.105	52.114.128.9	6	42225	443	11	18	11	7065	1543234461.788393	1543234508.084413	501	0	SSL_with_certificate	100		UNKNOWN		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation

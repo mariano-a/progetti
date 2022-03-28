@@ -1,0 +1,288 @@
+# id	src_ip		dst_ip		proto	sport	dport	dwpkts	uppkts	dwbytes	upbytes	t_start			t_last			app_id	sub_id	app_details	confidence		PACKAGE		DNS		DIG		WHOIS
+• 38	192.168.20.105	172.217.23.98	6	49812	443	12	18	12	8132	1540372892.997879	1540373042.981950	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.googleadservices.com		NOT_REQUIRED		OrgName:        Google LLC
+• 39	192.168.20.105	172.217.23.98	6	49813	443	6	9	6	993	1540372893.007879	1540372905.110888	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.googleadservices.com		NOT_REQUIRED		OrgName:        Google LLC
+• 119	192.168.20.105	172.217.23.98	6	49856	443	7	8	7	3725	1540373039.157951	1540373043.328952	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.googleadservices.com		NOT_REQUIRED		OrgName:        Google LLC
+• 88	192.168.20.105	185.33.223.198	6	50924	443	10	12	10	2187	1540372916.106895	1540372927.222198	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		ib.adnxs.com
+secure.adnxs.com		NOT_REQUIRED		org-name:       AppNexus, Inc.
+• 93	192.168.20.105	185.33.223.208	6	53016	443	9	12	9	2112	1540372916.331891	1540372927.227196	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		secure.adnxs.com		NOT_REQUIRED		org-name:       AppNexus, Inc.
+• 94	192.168.20.105	185.33.223.208	6	53017	443	2	4	2	216	1540372916.367891	1540372926.497896	0	0	Other_TCP	0		org.cyanogenmod.gello.browser		secure.adnxs.com		NOT_REQUIRED		org-name:       AppNexus, Inc.
+• 123	192.168.20.105	185.33.223.208	6	53034	443	11	10	11	1683	1540373043.812951	1540373055.742973	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		secure.adnxs.com		NOT_REQUIRED		org-name:       AppNexus, Inc.
+• 20	192.168.20.105	209.58.183.136	6	33435	81	6	10	6	543	1540372714.265797	1540372715.989796	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		OrgName:        Asia Pacific Network Information Centre
+• 81	192.168.20.105	31.13.86.4	6	60309	443	47	52	47	5393	1540372915.706892	1540373043.125577	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		connect.facebook.net		NOT_REQUIRED		UNKNOWN
+• 110	192.168.20.105	31.13.86.36	6	42512	443	19	26	19	14754	1540372919.775893	1540373047.044523	501	0	Facebook	100		org.cyanogenmod.gello.browser		www.facebook.com		NOT_REQUIRED		UNKNOWN
+• 112	192.168.20.105	31.13.86.36	6	42514	443	6	8	6	980	1540372920.379898	1540372931.214900	501	0	Facebook	100		org.cyanogenmod.gello.browser		www.facebook.com		NOT_REQUIRED		UNKNOWN
+• 137	192.168.20.105	31.13.86.36	6	42529	443	11	12	11	8035	1540373048.083951	1540373048.381951	501	0	Facebook	100		org.cyanogenmod.gello.browser		www.facebook.com		NOT_REQUIRED		UNKNOWN
+• 138	192.168.20.105	31.13.86.36	6	42530	443	6	8	6	980	1540373048.095954	1540373059.734961	501	0	Facebook	100		org.cyanogenmod.gello.browser		www.facebook.com		NOT_REQUIRED		UNKNOWN
+• 24	66.211.179.158	192.168.20.105	6	443	56204	4	2	4	117	1540372804.550361	1540372821.292850	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 13	192.168.20.105	43.249.37.146	6	32787	81	6	10	6	543	1540372714.118800	1540372716.061800	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		JSFN040.local.		UNKNOWN
+• 19	192.168.20.105	185.50.104.152	6	44283	81	6	10	6	543	1540372714.237797	1540372716.065802	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by-i3d.net.		org-name:       i3D.net B.V
+• 106	192.168.20.105	23.12.99.159	6	35331	443	10	14	10	4746	1540372919.288897	1540373047.404954	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		stags.bluekai.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 107	192.168.20.105	23.12.99.159	6	35332	443	6	9	6	821	1540372919.300894	1540372931.192901	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		stags.bluekai.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 17	192.168.20.105	139.99.130.217	6	46340	81	6	10	6	543	1540372714.189798	1540372716.578801	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns537241.ip-139-99-130.net.		OrgName:        OVH Australia PTY LTD
+OrgName:        OVH Hosting, Inc.
+OrgName:        OVH Australia PTY LTD
+• 11	192.168.20.105	66.165.229.98	6	39194	81	6	10	6	543	1540372714.100800	1540372716.050800	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		66-165-229-98.static.hvvc.us.		OrgName:        NOC4Hosts Inc.
+network:Org-Name:Howse, Steven
+• 22	192.168.20.105	213.239.194.144	6	41290	81	6	10	6	543	1540372714.328800	1540372715.853798	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		static.213-239-194-144.clients.your-server.de.		UNKNOWN
+• 14	192.168.20.105	206.221.182.210	6	50500	81	6	10	6	543	1540372714.137797	1540372715.973798	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by.reliablesite.net.		OrgName:        ReliableSite.Net LLC
+• 3	192.168.20.105	104.20.23.135	6	36164	80	5	13	5	1864	1540372707.163801	1540373065.759961	501	0	HTTP		100		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		OrgName:        Cloudflare, Inc.
+• 4	192.168.20.105	104.20.23.135	6	36165	80	4	11	4	1139	1540372707.188795	1540373065.728966	501	0	HTTP		100		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		OrgName:        Cloudflare, Inc.
+• 87	192.168.20.105	92.123.17.22	6	42078	443	14	16	14	2131	1540372916.079890	1540372916.856895	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		tags.bkrtx.com		NOT_REQUIRED		UNKNOWN
+• 18	192.168.20.105	103.195.101.154	6	36274	81	6	10	6	543	1540372714.196800	1540372715.988800	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		org-name:       ReliableSite.Net LLC
+• 2	76.83.68.88	237.24.204.191	255	0	0	14	14	14	392	1540372705.041904	1540373041.407953	0	0	ARP		0		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 62	192.168.20.105	8.8.8.8		17	1987	53	1	1	1	56	1540372898.551882	1540372898.584174	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 103	192.168.20.105	8.8.8.8		17	1758	53	1	1	1	61	1540372918.861892	1540372918.903550	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 6	192.168.20.105	8.8.8.8		17	16764	53	1	1	1	72	1540372707.883792	1540372707.917903	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 25	192.168.20.105	8.8.8.8		17	19728	53	1	1	1	73	1540372818.599844	1540372818.632992	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 28	192.168.20.105	8.8.8.8		17	25949	53	1	1	1	75	1540372823.065847	1540372823.099656	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 30	192.168.20.105	8.8.8.8		17	24516	53	1	1	1	73	1540372833.834854	1540372833.869027	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 108	192.168.20.105	8.8.8.8		17	34826	53	1	1	1	62	1540372919.694896	1540372919.733116	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 40	192.168.20.105	8.8.8.8		17	35885	53	1	1	1	60	1540372895.393882	1540372895.672702	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 53	192.168.20.105	8.8.8.8		17	35207	53	1	1	1	64	1540372897.738885	1540372897.814892	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 97	192.168.20.105	8.8.8.8		17	34723	53	1	1	1	54	1540372917.024895	1540372917.044523	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 43	192.168.20.105	8.8.8.8		17	40461	53	1	1	1	62	1540372895.899880	1540372895.937562	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 61	192.168.20.105	8.8.8.8		17	38770	53	1	1	1	54	1540372898.470885	1540372898.503219	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 91	192.168.20.105	8.8.8.8		17	39505	53	1	1	1	59	1540372916.241890	1540372916.274933	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 84	192.168.20.105	8.8.8.8		17	42266	53	1	1	1	66	1540372915.954893	1540372916.003065	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 116	192.168.20.105	8.8.8.8		17	42292	53	1	1	1	65	1540372987.479925	1540372987.554640	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 82	192.168.20.105	8.8.8.8		17	44811	53	1	1	1	60	1540372915.868894	1540372915.910116	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 121	192.168.20.105	8.8.8.8		17	40443	53	1	1	1	62	1540373043.633949	1540373043.650300	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 33	192.168.20.105	8.8.8.8		17	44089	53	1	1	1	60	1540372891.336885	1540372891.368953	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 128	192.168.20.105	8.8.8.8		17	40949	53	1	1	1	64	1540373044.497950	1540373044.540831	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 54	192.168.20.105	8.8.8.8		17	45099	53	1	1	1	65	1540372897.912886	1540372898.063887	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 60	192.168.20.105	8.8.8.8		17	47474	53	1	1	1	60	1540372898.434886	1540372898.467239	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 55	192.168.20.105	8.8.8.8		17	46532	53	1	1	1	67	1540372897.958885	1540372898.066885	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 139	192.168.20.105	8.8.8.8		17	48117	53	1	1	1	65	1540373058.764958	1540373058.797376	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 66	192.168.20.105	8.8.8.8		17	52543	53	1	1	1	64	1540372905.140888	1540372905.182725	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Google LLC
+• 86	192.168.20.105	8.8.8.8		17	52856	53	1	1	1	62	1540372916.053892	1540372916.070033	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 80	192.168.20.105	8.8.8.8		17	53955	53	1	1	1	66	1540372915.615890	1540372915.661244	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 77	192.168.20.105	8.8.8.8		17	55700	53	1	1	1	65	1540372913.962891	1540372913.997114	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 134	192.168.20.105	8.8.8.8		17	57175	53	1	1	1	63	1540373047.102956	1540373047.118489	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 49	192.168.20.105	8.8.8.8		17	57908	53	1	1	1	62	1540372897.237883	1540372897.253871	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 64	192.168.20.105	8.8.8.8		17	56475	53	1	1	1	70	1540372903.179885	1540372903.212755	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 126	192.168.20.105	8.8.8.8		17	56729	53	1	1	1	54	1540373044.236957	1540373044.252983	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 73	192.168.20.105	8.8.8.8		17	55034	53	1	1	1	69	1540372912.969888	1540372912.985645	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 120	192.168.20.105	8.8.8.8		17	59206	53	1	1	1	58	1540373043.577920	1540373043.594330	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Google LLC
+• 71	192.168.20.105	8.8.8.8		17	62210	53	1	1	1	65	1540372911.400891	1540372911.447450	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 85	192.168.20.105	8.8.8.8		17	59572	53	1	1	1	58	1540372916.018894	1540372916.034051	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 48	192.168.20.105	8.8.8.8		17	58873	53	1	1	1	65	1540372897.092890	1540372897.137934	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 37	192.168.20.105	8.8.8.8		17	60358	53	1	1	1	70	1540372892.941880	1540372892.985105	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 109	192.168.20.105	8.8.8.8		17	63523	53	1	1	1	66	1540372919.727893	1540372919.763100	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 67	192.168.20.105	8.8.8.8		17	62809	53	1	1	1	70	1540372907.630890	1540372907.664434	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 34	192.168.20.105	8.8.8.8		17	65036	53	1	1	1	64	1540372892.626888	1540372892.669274	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 105	192.168.20.105	8.8.8.8		17	64128	53	1	1	1	63	1540372919.215892	1540372919.270358	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 99	192.168.20.105	8.8.8.8		17	65350	53	1	1	1	73	1540372917.581889	1540372917.624219	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Google LLC
+• 69	192.168.20.105	8.8.8.8		17	65376	53	1	1	1	65	1540372908.804889	1540372908.838814	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 136	192.168.20.105	8.8.8.8		17	62946	53	1	1	1	62	1540373048.025955	1540373048.057996	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 75	192.168.20.105	8.8.8.8		17	63676	53	1	1	1	69	1540372913.232892	1540372913.267497	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 83	192.168.20.105	8.8.8.8		17	65506	53	1	1	1	58	1540372915.933889	1540372915.950094	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 98	192.168.20.105	54.229.126.163	6	51297	443	12	16	12	2200	1540372917.128894	1540372979.376925	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		s.cpx.to		NOT_REQUIRED		OrgName:        Amazon.com, Inc.
+OrgName:        Amazon Technologies Inc.
+• 15	192.168.20.105	149.202.210.80	6	57843	81	6	10	6	543	1540372714.146803	1540372715.896801	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3039755.ip-149-202-210.eu.		org-name:       OVH SAS
+• 135	192.168.20.105	173.223.168.253	6	53427	443	6	8	6	980	1540373047.155952	1540373057.721954	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		stags.bluekai.com		NOT_REQUIRED		OrgName:        Akamai International, BV
+OrgName:        Akamai Technologies, Inc.
+• 7	192.168.20.105	147.135.15.105	6	45557	81	6	10	6	543	1540372714.047798	1540372716.009796	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns100818.ip-147-135-15.us.		OrgName:        OVH US LLC
+• 23	192.168.20.105	147.135.15.105	6	44007	454	220	225	220	11937	1540372801.132840	1540372821.915277	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns100818.ip-147-135-15.us.		OrgName:        OVH US LLC
+• 32	192.168.20.105	147.135.15.105	6	44010	454	315	324	315	17238	1540372844.072865	1540372873.917079	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns100818.ip-147-135-15.us.		OrgName:        OVH US LLC
+• 92	192.168.20.105	50.115.217.173	6	43697	443	13	14	13	4481	1540372916.286894	1540372917.417327	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		t.groupon.it		NOT_REQUIRED		OrgName:        Groupon, Inc.
+• 125	192.168.20.105	50.115.217.173	6	43718	443	11	11	11	3845	1540373044.030952	1540373044.451878	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		t.groupon.it		NOT_REQUIRED		OrgName:        Groupon, Inc.
+• 10	192.168.20.105	185.179.200.145	6	50982	81	6	10	6	543	1540372714.081797	1540372716.128801	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by.i3d.net.		UNKNOWN
+• 74	192.168.20.105	50.115.217.228	6	46980	443	10	12	10	2185	1540372913.014893	1540372913.964133	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		mapproxy-eu.groupon.com		NOT_REQUIRED		OrgName:        Groupon, Inc.
+• 21	192.168.20.105	149.56.20.72	6	35735	81	6	10	6	543	1540372714.271797	1540372715.938798	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns528489.ip-149-56-20.net.		OrgName:        OVH Hosting, Inc.
+OrgName:        OVH Hosting, Inc.
+• 12	192.168.20.105	31.204.145.104	6	46968	81	6	10	6	543	1540372714.108800	1540372716.153798	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by.i3d.net.		UNKNOWN
+• 9	192.168.20.105	79.137.68.168	6	52981	81	6	10	6	543	1540372714.080800	1540372715.930800	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3072365.ip-79-137-68.eu.		org-name:       OVH Sp. z o. o.
+• 35	192.168.20.105	5.57.18.231	6	56735	443	67	71	67	8461	1540372892.690886	1540372953.280567	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		secure.booking.com		NOT_REQUIRED		UNKNOWN
+• 36	192.168.20.105	5.57.18.231	6	56736	443	8	12	8	960	1540372892.699882	1540372903.154887	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		secure.booking.com		NOT_REQUIRED		UNKNOWN
+• 16	192.168.20.105	206.191.155.104	6	44471	81	6	10	6	543	1540372714.153799	1540372716.008800	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		OrgName:        Internap Corporation
+• 26	192.168.20.105	216.58.205.34	6	39202	443	8	13	8	3590	1540372818.652847	1540373062.380961	501	0	Google		100		GOOGLE		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 27	192.168.20.105	216.58.205.34	6	46530	443	43	37	43	8732	1540372818.772849	1540373062.381958	501	0	Google		100		air.com.hypah.io.slither		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 96	192.168.20.105	216.58.205.34	6	46566	443	11	14	11	3726	1540372916.708893	1540372918.271891	501	0	Google		100		org.cyanogenmod.gello.browser		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 95	192.168.20.105	216.58.205.35	6	46779	443	10	15	10	5244	1540372916.465892	1540372918.981893	501	0	Google		100		org.cyanogenmod.gello.browser		www.google.it		NOT_REQUIRED		OrgName:        Google LLC
+• 0	192.168.20.105	216.58.205.42	6	38457	443	2	2	2	135	1540372700.013797	1540372700.029027	0	0	Other_TCP	0		GOOGLE		maps.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 104	192.168.20.105	68.232.35.180	6	52451	443	19	23	19	2395	1540372918.988895	1540372923.597896	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		tags.tiqcdn.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 115	192.168.20.105	68.232.35.203	6	53054	443	13	18	13	1569	1540372923.866896	1540372924.279894	501	0	SSL_with_certificate	100		VERIZON		r-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 44	192.168.20.105	68.232.35.203	6	58738	443	42	43	42	3087	1540372895.982886	1540373077.740466	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		r-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 45	192.168.20.105	68.232.35.203	6	58739	443	14	17	14	1751	1540372895.998883	1540373077.738472	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		r-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 46	192.168.20.105	68.232.35.203	6	58740	443	43	45	43	3206	1540372896.016885	1540373077.739467	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		r-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 50	192.168.20.105	68.232.35.203	6	58742	443	32	35	32	2644	1540372897.312885	1540373079.962305	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		r-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 51	192.168.20.105	68.232.35.205	6	54790	443	96	95	96	5776	1540372897.411882	1540373079.739421	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		q-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 52	192.168.20.105	68.232.35.205	6	54791	443	28	31	28	2456	1540372897.434885	1540373079.738425	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		q-ec.bstatic.com		NOT_REQUIRED		OrgName:        MCI Communications Services, Inc. d/b/a Verizon Business
+• 111	192.168.20.105	216.58.205.98	6	54310	443	13	15	13	5513	1540372919.791896	1540373046.551950	501	0	Google		100		org.cyanogenmod.gello.browser		adservice.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 132	192.168.20.105	216.58.205.98	6	54323	443	5	7	5	1105	1540373045.863950	1540373057.708960	501	0	Google		100		org.cyanogenmod.gello.browser		adservice.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 133	192.168.20.105	216.58.205.98	6	54324	443	5	7	5	1105	1540373045.873950	1540373057.709954	501	0	Google		100		org.cyanogenmod.gello.browser		adservice.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 100	192.168.20.105	216.58.205.102	6	42720	443	11	15	11	4337	1540372917.695890	1540373046.155950	501	0	Google		100		org.cyanogenmod.gello.browser		4345210.fls.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 101	192.168.20.105	216.58.205.102	6	42721	443	6	9	6	996	1540372917.706893	1540372929.184903	501	0	Google		100		org.cyanogenmod.gello.browser		4345210.fls.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 68	192.168.20.105	216.58.205.104	6	40432	443	72	42	72	4072	1540372907.691886	1540372910.515886	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.googletagmanager.com		NOT_REQUIRED		OrgName:        Google LLC
+• 31	192.168.20.105	216.58.205.106	6	53199	443	11	12	11	1697	1540372833.882856	1540372954.798913	501	0	Google		100		GOOGLE		safebrowsing.googleapis.com
+maps.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 65	192.168.20.105	216.58.205.110	6	48074	443	10	15	10	4565	1540372903.245883	1540372924.799895	501	0	Google		100		org.cyanogenmod.gello.browser		android.clients.google.com
+www.google-analytics.com
+clients1.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 70	192.168.20.105	216.58.205.110	6	48076	443	10	14	10	3369	1540372908.884890	1540372920.735894	501	0	Google		100		org.cyanogenmod.gello.browser		android.clients.google.com
+www.google-analytics.com
+clients1.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 78	192.168.20.105	216.58.205.138	6	41019	443	53	53	53	5374	1540372914.031888	1540372923.544899	501	0	Google		100		org.cyanogenmod.gello.browser		maps.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 113	192.168.20.105	216.58.205.138	6	41039	443	46	28	46	4932	1540372923.348897	1540372925.083895	501	0	Google		100		org.cyanogenmod.gello.browser		maps.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 114	192.168.20.105	216.58.205.138	6	41040	443	7	7	7	2077	1540372923.386901	1540372923.790900	501	0	Google		100		org.cyanogenmod.gello.browser		maps.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 5	192.168.20.105	216.58.205.162	6	44576	443	51	38	51	10858	1540372707.342794	1540372954.723909	501	0	Google		100		GOOGLE		UNKNOWN		mil04s28-in-f2.1e100.net.
+mil04s28-in-f162.1e100.net.		OrgName:        Google LLC
+• 1	216.58.205.162	192.168.20.105	6	443	46232	4	4	4	190	1540372703.602169	1540372707.356193	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 47	192.168.20.105	216.58.205.164	6	55741	443	12	16	12	5597	1540372896.273882	1540372917.688895	501	0	Google		100		org.cyanogenmod.gello.browser		www.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 102	192.168.20.105	216.58.205.164	6	55769	443	7	8	7	2705	1540372918.393894	1540372918.681892	501	0	Google		100		org.cyanogenmod.gello.browser		www.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 29	192.168.20.105	216.58.205.194	6	49021	443	23	26	23	3413	1540372823.123846	1540373062.584960	501	0	Google		100		air.com.hypah.io.slither		pagead2.googlesyndication.com		NOT_REQUIRED		OrgName:        Google LLC
+• 76	192.168.20.105	173.194.76.155	6	46171	443	6	8	6	1688	1540372913.314893	1540372913.559890	501	0	Google		100		org.cyanogenmod.gello.browser		stats.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 127	192.168.20.105	54.76.245.204	6	36975	443	9	12	9	2139	1540373044.304953	1540373044.610952	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		s.cpx.to		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 57	192.168.20.105	193.206.135.171	6	38799	80	3	4	3	565	1540372898.207888	1540372898.642886	501	0	HTTP		100		org.cyanogenmod.gello.browser		www.grouponitalia.com		NOT_REQUIRED		UNKNOWN
+• 58	192.168.20.105	193.206.135.171	6	38800	80	2	4	2	216	1540372898.241882	1540372908.319888	0	0	Other_TCP	0		org.cyanogenmod.gello.browser		www.grouponitalia.com		NOT_REQUIRED		UNKNOWN
+• 122	192.168.20.105	37.252.172.39	6	41162	443	11	11	11	2609	1540373043.783949	1540373055.725985	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		ib.adnxs.com		NOT_REQUIRED		org-name:       AppNexus, Inc.
+• 118	192.168.20.105	23.1.65.241	6	35248	443	12	15	12	1388	1540372989.944927	1540372990.215924	501	0	SSL_with_certificate	100		GROUPON+AKAMAI_TECNOLOGIES		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 41	192.168.20.105	23.1.65.241	6	41646	443	519	401	519	41127	1540372895.840883	1540373048.285875	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 42	192.168.20.105	23.1.65.241	6	41647	443	9	12	9	974	1540372895.851880	1540372907.129886	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 63	192.168.20.105	23.1.65.241	6	41659	443	65	88	65	40538	1540372898.634887	1540373057.072958	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 72	192.168.20.105	23.1.65.241	6	41663	443	196	115	196	8375	1540372911.472890	1540373049.861953	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 129	192.168.20.105	23.1.65.241	6	41694	443	11	12	11	990	1540373044.571950	1540373055.692960	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 130	192.168.20.105	23.1.65.241	6	41695	443	11	12	11	990	1540373044.584953	1540373055.693960	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 131	192.168.20.105	23.1.65.241	6	41696	443	11	11	11	938	1540373044.595951	1540373055.060956	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 89	192.168.20.105	23.1.65.241	6	45817	443	12	17	12	1492	1540372916.147891	1540372916.370896	501	0	SSL_with_certificate	100		GROUPON+AKAMAI_TECNOLOGIES		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 117	192.168.20.105	23.1.65.241	6	54626	443	12	16	12	1440	1540372987.576925	1540372987.817922	501	0	SSL_with_certificate	100		GROUPON+AKAMAI_TECNOLOGIES		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 140	192.168.20.105	23.1.65.241	6	54451	443	12	15	12	1388	1540373058.813956	1540373059.003955	501	0	SSL_with_certificate	100		UNKNOWN		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 79	192.168.20.105	23.1.65.241	6	60670	443	12	16	12	1440	1540372914.423888	1540372914.870892	501	0	SSL_with_certificate	100		GROUPON+AKAMAI_TECNOLOGIES		www.groupon.it
+www2.grouponcdn.com
+eu.groupondata.com
+www1.grouponcdn.com
+www2.grouponcdn.com
+eu.groupondata.com
+www2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 90	192.168.20.105	178.250.2.82	6	46509	443	8	9	8	2181	1540372916.188895	1540372931.015216	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		sslwidget.criteo.com		NOT_REQUIRED		UNKNOWN
+• 124	192.168.20.105	178.250.2.82	6	46530	443	9	9	9	1653	1540373043.856953	1540373058.443563	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		sslwidget.criteo.com		NOT_REQUIRED		UNKNOWN
+• 56	192.168.20.105	23.1.74.180	6	58227	443	341	247	341	16407	1540372898.074886	1540373046.768668	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		img.grouponcdn.com
+img2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 59	192.168.20.105	23.1.74.180	6	58230	443	8	10	8	875	1540372898.269882	1540372898.847883	501	0	SSL_with_certificate	100		org.cyanogenmod.gello.browser		img.grouponcdn.com
+img2.grouponcdn.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 8	192.168.20.105	145.239.6.18	6	39383	81	6	10	6	543	1540372714.056800	1540372715.927797	0	0	Other_TCP		0		air.com.hypah.io.slither		UNKNOWN		ns3083218.ip-145-239-6.eu.		org-name:       OVH Ltd

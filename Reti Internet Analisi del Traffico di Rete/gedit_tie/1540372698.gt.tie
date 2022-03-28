@@ -1,0 +1,335 @@
+# id	src_ip		dst_ip		proto	sport	dport	dwpkts	uppkts	dwbytes	upbytes	t_start			t_last			app_id	sub_id	app_details	confidence		PACKAGE		DNS		DIG		WHOIS
+• 154	192.168.20.101	23.9.2.207	6	42756	443	15	17	15	2761	1540372931.842902	1540373002.225966	501	0	SSL_with_certificate	100		com.ebay.mobile		www.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 149	192.168.20.101	192.225.158.3	6	53516	443	9	12	9	1943	1540372925.999894	1540372927.463073	501	0	SSL_with_certificate	100		com.ebay.mobile		usllpic0-a80dfed5b41ee70789624d17de86b9760921ef39-sac.d.aa.online-metrix.net		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 150	192.168.20.101	192.225.158.3	6	53517	443	4	5	4	280	1540372926.053897	1540373022.351439	0	0	Other_TCP	0		com.ebay.mobile		usllpic0-a80dfed5b41ee70789624d17de86b9760921ef39-sac.d.aa.online-metrix.net		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 143	192.168.20.101	192.225.158.136	6	40863	443	27	30	27	2446	1540372920.961892	1540372926.368654	501	0	SSL_with_certificate	100		com.ebay.mobile		src.ebay-us.com		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 144	192.168.20.101	192.225.158.136	6	40864	443	11	14	11	1644	1540372920.994893	1540372925.817940	501	0	SSL_with_certificate	100		com.ebay.mobile		src.ebay-us.com		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 145	192.168.20.101	192.225.158.136	6	40865	443	11	13	11	1592	1540372921.134895	1540372925.817961	501	0	SSL_with_certificate	100		com.ebay.mobile		src.ebay-us.com		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 146	192.168.20.101	192.225.158.136	6	40866	443	17	22	17	6965	1540372921.329892	1540372930.423531	501	0	SSL_with_certificate	100		com.ebay.mobile		src.ebay-us.com		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 148	192.168.20.101	192.225.158.136	6	40867	443	8	10	8	1755	1540372925.797895	1540372933.764904	501	0	SSL_with_certificate	100		com.ebay.mobile		src.ebay-us.com		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 157	192.168.20.101	192.225.158.136	6	40872	443	8	8	8	1744	1540372933.854903	1540372934.833218	501	0	SSL_with_certificate	100		com.ebay.mobile		src.ebay-us.com		NOT_REQUIRED		OrgName:        ThreatMetrix Inc.
+• 86	192.168.20.101	66.211.180.109	6	41692	443	11	13	11	2084	1540372821.176850	1540372828.516854	501	0	eBay		100		EBAY		mobixo.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 60	192.168.20.101	66.211.180.109	6	44780	443	11	12	11	1771	1540372759.231817	1540372770.934824	501	0	eBay		100		EBAY		mobixo.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 46	192.168.20.101	66.211.180.109	6	59548	443	11	13	11	2052	1540372744.336816	1540372751.291815	501	0	eBay		100		EBAY		mobixo.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 76	192.168.20.101	66.211.178.169	6	40216	443	11	13	11	2084	1540372792.392834	1540372799.452838	501	0	eBay		100		EBAY		mobixo.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 169	192.168.20.101	31.13.90.2	6	33114	443	8	10	8	1435	1540373028.212946	1540373028.689941	501	0	Facebook	100		FACEBOOK		graph.facebook.com		NOT_REQUIRED		UNKNOWN
+• 42	192.168.20.101	52.4.236.31	6	37898	443	14	22	14	5847	1540372733.580811	1540372745.803811	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 120	192.168.20.101	52.4.236.31	6	38741	443	10	11	10	1611	1540372869.652871	1540372962.739618	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 41	192.168.20.101	52.4.236.31	6	47667	443	14	22	14	5274	1540372733.520814	1540372745.694813	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 163	192.168.20.101	52.4.236.31	6	47544	443	13	20	13	5708	1540372962.870915	1540373021.757937	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 173	192.168.20.101	66.211.179.184	6	41493	443	0	1	0	60	1540373031.229943	1540373031.229943	0	0	Other_TCP	0		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 97	192.168.20.101	52.4.236.31	6	56393	443	10	12	10	1718	1540372833.206858	1540372842.231857	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 30	192.168.20.101	66.211.179.184	6	41101	443	31	35	31	14777	1540372719.622803	1540372751.432820	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 8	192.168.20.101	66.211.179.184	6	56090	443	12	13	12	2362	1540372712.654797	1540372716.850799	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 27	192.168.20.101	66.211.179.184	6	56002	443	16	19	16	7870	1540372719.102802	1540372723.998803	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 167	192.168.20.101	34.196.88.250	6	34147	443	9	12	9	1695	1540373015.964938	1540373022.070940	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 33	192.168.20.101	176.120.18.70	6	35459	443	9	11	9	1173	1540372720.132802	1540372720.492802	501	0	SSL_with_certificate	100		PAYPAL		b.stats.paypal.com
+dub.stats.paypal.com		NOT_REQUIRED		org-name:       Bill Me Later, Inc
+• 37	192.168.20.101	176.120.18.70	6	40563	443	10	11	10	1571	1540372722.446805	1540372722.762804	501	0	SSL_with_certificate	100		PAYPAL		b.stats.paypal.com
+dub.stats.paypal.com		NOT_REQUIRED		org-name:       Bill Me Later, Inc
+• 38	192.168.20.101	176.120.18.70	6	40620	443	9	11	9	1504	1540372722.812806	1540372723.221801	501	0	SSL_with_certificate	100		PAYPAL		b.stats.paypal.com
+dub.stats.paypal.com		NOT_REQUIRED		org-name:       Bill Me Later, Inc
+• 31	192.168.20.101	176.120.18.70	6	50473	443	9	11	9	1238	1540372719.668802	1540372720.059799	501	0	SSL_with_certificate	100		PAYPAL		b.stats.paypal.com
+dub.stats.paypal.com		NOT_REQUIRED		org-name:       Bill Me Later, Inc
+• 93	192.168.20.101	23.12.102.24	6	32856	443	59	42	59	3536	1540372828.023851	1540372958.059909	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 53	192.168.20.101	23.12.102.24	6	33344	443	30	24	30	2158	1540372750.529814	1540372763.746822	501	0	Yahoo		100			  EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 65	192.168.20.101	23.12.102.24	6	35854	443	22	20	22	2019	1540372770.170829	1540372793.416835	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 118	192.168.20.101	23.12.102.24	6	34431	443	76	81	76	6394	1540372867.384870	1540373030.146948	501	0	eBay		100		com.ebay.mobile		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 119	192.168.20.101	23.12.102.24	6	34432	443	7	10	7	863	1540372867.784871	1540372868.591871	501	0	eBay		100		com.ebay.mobile		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 66	192.168.20.101	23.12.102.24	6	35487	443	18	15	18	1759	1540372770.230824	1540372788.561831	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 161	192.168.20.101	23.12.102.25	6	34347	443	45	37	45	10881	1540372957.057908	1540373021.652941	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 14	192.168.20.101	23.12.102.25	6	35009	443	9	10	9	1951	1540372713.350802	1540372716.665799	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 67	192.168.20.101	23.12.102.24	6	39796	443	14	10	14	1307	1540372770.286824	1540372778.931826	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 54	192.168.20.101	23.12.102.24	6	39841	443	27	22	27	1860	1540372750.614817	1540372760.203826	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 49	192.168.20.101	23.12.102.25	6	36080	443	11	14	11	2835	1540372745.177810	1540372751.142816	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 84	192.168.20.101	23.12.102.25	6	42767	443	37	34	37	9932	1540372820.424850	1540372840.268857	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 55	192.168.20.101	23.12.102.24	6	43757	443	42	37	42	3187	1540372750.671810	1540372781.238828	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 68	192.168.20.101	23.12.102.25	6	45642	443	77	77	77	13127	1540372777.815832	1540372802.924839	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 11	192.168.20.101	23.12.102.25	6	44454	443	103	95	103	12630	1540372712.905797	1540372754.904817	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 101	192.168.20.101	23.12.102.24	6	49862	443	24	10	24	1313	1540372839.136858	1540372859.502865	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 12	192.168.20.101	23.12.102.25	6	49252	443	11	13	11	2040	1540372712.936797	1540372716.640799	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 100	192.168.20.101	23.12.102.24	6	55329	443	31	21	31	2071	1540372839.100859	1540372870.375868	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 73	192.168.20.101	23.12.102.24	6	53881	443	17	10	17	1313	1540372782.068831	1540372796.279837	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 59	192.168.20.101	23.12.102.25	6	51532	443	75	72	75	8184	1540372759.119820	1540372770.792825	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 26	192.168.20.101	23.12.102.25	6	50136	443	11	12	11	3538	1540372718.911799	1540372734.863807	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 81	192.168.20.101	23.12.102.24	6	56993	443	50	41	50	3495	1540372798.845836	1540372822.232847	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 92	192.168.20.101	23.12.102.24	6	56755	443	44	40	44	3431	1540372827.997852	1540373013.574939	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 79	192.168.20.101	23.12.102.24	6	56532	443	37	33	37	2881	1540372798.793836	1540372820.798848	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 52	192.168.20.101	23.12.102.24	6	56055	443	62	25	62	2029	1540372750.478820	1540372759.558821	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 72	192.168.20.101	23.12.102.24	6	59747	443	54	49	54	4079	1540372781.949826	1540372826.551849	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 29	192.168.20.101	23.12.102.25	6	57165	443	10	10	10	2399	1540372719.515799	1540372721.146803	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 89	192.168.20.101	23.12.102.25	6	56474	443	24	18	24	3469	1540372825.819854	1540372840.295855	501	0	eBay		100		          EBAY+AKAMAI_TECNOLOGIES		apisd.ebay.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 80	192.168.20.101	23.12.102.24	6	60049	443	51	46	51	3755	1540372798.799838	1540372824.840853	501	0	Yahoo		100		          EBAY+AKAMAI_TECNOLOGIES		i.ebayimg.com
+securepics.ebaystatic.com
+secureir.ebaystatic.com
+sofe.ebay.it		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 39	192.168.20.101	23.12.99.100	6	53527	443	12	15	12	3483	1540372723.289803	1540372745.518814	501	0	SSL_with_certificate	100		PAYPAL+AKAMAI_TECNOLOGIES		c.paypal.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 35	192.168.20.101	23.12.99.100	6	57390	443	14	18	14	3615	1540372720.625799	1540372735.817806	501	0	SSL_with_certificate	100		PAYPAL+AKAMAI_TECNOLOGIES		c.paypal.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 17	192.168.20.101	34.204.59.204	6	37864	443	10	14	10	1356	1540372715.116798	1540372720.208800	501	0	SSL_with_certificate	100		AMAZON		UNKNOWN		ec2-34-204-59-204.compute-1.amazonaws.com.		OrgName:        Amazon Technologies Inc.
+• 36	123.164.9.71	76.83.68.88	255	0	0	11	11	11	506	1540372721.709802	1540372992.973931	0	0	ARP		0		CHARTER_COMMUNICATIONS		UNKNOWN		wifi-76-83-68-88.inf.spectrum.com.		OrgName:        Charter Communications Inc
+• 156	192.168.20.101	74.125.140.84	6	48048	443	22	25	22	3064	1540372932.721902	1540373021.684940	501	0	Google		100		com.ebay.mobile		accounts.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 128	192.168.20.101	8.8.8.8		17	3083	53	1	1	1	58	1540372909.375888	1540372909.418519	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 139	192.168.20.101	8.8.8.8		17	3119	53	1	1	1	61	1540372919.198895	1540372919.231378	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 94	192.168.20.101	8.8.8.8		17	2193	53	1	1	1	60	1540372830.487856	1540372830.520778	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 134	192.168.20.101	8.8.8.8		17	2047	53	1	1	1	64	1540372914.812891	1540372914.828683	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 153	192.168.20.101	8.8.8.8		17	5044	53	1	1	1	57	1540372931.672902	1540372931.714849	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 113	192.168.20.101	8.8.8.8		17	6289	53	1	1	1	60	1540372866.404869	1540372866.421001	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 117	192.168.20.101	8.8.8.8		17	8127	53	1	1	1	69	1540372867.292869	1540372867.336518	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 121	192.168.20.101	8.8.8.8		17	11552	53	1	1	1	57	1540372903.411884	1540372903.427644	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 162	192.168.20.101	8.8.8.8		17	12585	53	1	1	1	62	1540372962.648914	1540372962.680653	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 116	192.168.20.101	8.8.8.8		17	13349	53	1	1	1	71	1540372867.185866	1540372867.229575	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 123	192.168.20.101	8.8.8.8		17	12435	53	1	1	1	60	1540372905.137885	1540372905.193718	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 158	192.168.20.101	8.8.8.8		17	12226	53	1	1	1	61	1540372934.277903	1540372934.293500	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 131	192.168.20.101	8.8.8.8		17	15177	53	1	1	1	59	1540372910.415886	1540372910.431984	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 106	192.168.20.101	8.8.8.8		17	15193	53	1	1	1	58	1540372863.297865	1540372863.329615	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 103	192.168.20.101	8.8.8.8		17	13023	53	1	1	1	59	1540372858.387864	1540372858.420183	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 151	192.168.20.101	8.8.8.8		17	16213	53	1	1	1	58	1540372929.265897	1540372929.318105	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 96	192.168.20.101	8.8.8.8		17	16306	53	1	1	1	62	1540372833.106854	1540372833.139406	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 91	192.168.20.101	8.8.8.8		17	18986	53	1	1	1	59	1540372827.867851	1540372827.921135	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 142	192.168.20.101	8.8.8.8		17	20286	53	1	1	1	61	1540372920.866896	1540372920.887512	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 125	192.168.20.101	8.8.8.8		17	18609	53	1	1	1	61	1540372906.856893	1540372906.888835	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 90	192.168.20.101	8.8.8.8		17	18854	53	1	1	1	59	1540372827.854857	1540372827.908147	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 147	192.168.20.101	8.8.8.8		17	21106	53	1	1	1	122	1540372925.727896	1540372925.910885	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 109	192.168.20.101	8.8.8.8		17	22894	53	1	1	1	63	1540372865.087868	1540372865.130674	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 98	192.168.20.101	8.8.8.8		17	25621	53	1	1	1	59	1540372838.102862	1540372838.120811	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Google LLC
+• 85	192.168.20.101	8.8.8.8		17	22758	53	1	1	1	61	1540372821.069847	1540372821.112696	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 160	192.168.20.101	8.8.8.8		17	24296	53	1	1	1	73	1540372953.042911	1540372953.077672	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 152	192.168.20.101	8.8.8.8		17	25084	53	1	1	1	66	1540372931.236901	1540372931.269084	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 155	192.168.20.101	8.8.8.8		17	29709	53	1	1	1	65	1540372932.652906	1540372932.668355	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 87	192.168.20.101	8.8.8.8		17	26818	53	1	1	1	59	1540372822.488849	1540372822.503969	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 25	192.168.20.101	8.8.8.8		17	33829	53	1	1	1	73	1540372716.661798	1540372716.677322	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 19	192.168.20.101	8.8.8.8		17	34777	53	1	1	1	61	1540372715.701797	1540372715.733815	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 50	192.168.20.101	8.8.8.8		17	36072	53	1	1	1	59	1540372750.309819	1540372750.360704	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 4	192.168.20.101	8.8.8.8		17	41524	53	1	1	1	62	1540372711.471795	1540372711.487039	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 3	192.168.20.101	8.8.8.8		17	40070	53	1	1	1	74	1540372711.470801	1540372711.512022	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 18	192.168.20.101	8.8.8.8		17	43024	53	1	1	1	73	1540372715.605796	1540372715.620875	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 51	192.168.20.101	8.8.8.8		17	39878	53	1	1	1	59	1540372750.335814	1540372750.386687	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 75	192.168.20.101	8.8.8.8		17	40137	53	1	1	1	61	1540372792.286842	1540372792.318756	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 78	192.168.20.101	8.8.8.8		17	44188	53	1	1	1	59	1540372798.614839	1540372798.656440	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 166	192.168.20.101	8.8.8.8		17	44921	53	1	1	1	62	1540373015.680939	1540373015.713912	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 40	192.168.20.101	8.8.8.8		17	44679	53	1	1	1	62	1540372733.213810	1540372733.245656	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 28	192.168.20.101	8.8.8.8		17	46410	53	1	1	1	64	1540372719.512802	1540372719.595794	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 64	192.168.20.101	8.8.8.8		17	47670	53	1	1	1	59	1540372770.027822	1540372770.081388	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 34	192.168.20.101	8.8.8.8		17	46280	53	1	1	1	58	1540372720.513798	1540372720.567286	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 171	192.168.20.101	8.8.8.8		17	48588	53	1	1	1	59	1540373031.187945	1540373031.203807	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 168	192.168.20.101	8.8.8.8		17	50317	53	1	1	1	64	1540373028.149945	1540373028.165399	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 45	192.168.20.101	8.8.8.8		17	52593	53	1	1	1	61	1540372744.245812	1540372744.277887	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 10	192.168.20.101	8.8.8.8		17	53828	53	1	1	1	60	1540372712.771796	1540372712.813341	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 170	192.168.20.101	8.8.8.8		17	52638	53	1	1	1	59	1540373031.186951	1540373031.202813	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 32	192.168.20.101	8.8.8.8		17	56210	53	1	1	1	66	1540372720.070803	1540372720.086539	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 63	192.168.20.101	8.8.8.8		17	55980	53	1	1	1	59	1540372770.018826	1540372770.068397	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 69	192.168.20.101	8.8.8.8		17	57448	53	1	1	1	61	1540372777.871827	1540372777.903298	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 15	192.168.20.101	8.8.8.8		17	56237	53	1	1	1	73	1540372714.420800	1540372714.436494	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 57	192.168.20.101	8.8.8.8		17	57340	53	1	1	1	62	1540372754.182818	1540372754.236675	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 20	192.168.20.101	8.8.8.8		17	59330	53	1	1	1	62	1540372715.738800	1540372715.775793	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 1	192.168.20.101	8.8.8.8		17	59335	53	1	1	1	64	1540372709.371797	1540372709.387136	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 164	192.168.20.101	8.8.8.8		17	58364	53	1	1	1	62	1540373012.634944	1540373012.661508	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 47	192.168.20.101	8.8.8.8		17	61309	53	1	1	1	59	1540372744.378814	1540372744.394822	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Google LLC
+• 7	192.168.20.101	8.8.8.8		17	61127	53	1	1	1	59	1540372712.549795	1540372712.565471	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 61	192.168.20.101	8.8.8.8		17	62937	53	1	1	1	59	1540372760.448826	1540372760.464420	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 22	192.168.20.101	23.23.162.149	6	36160	443	10	15	10	1443	1540372715.823798	1540372720.287799	501	0	SSL_with_certificate	100		AMAZON		cdn46.forter.com		NOT_REQUIRED		OrgName:        Amazon.com, Inc.
+• 129	192.168.20.101	92.122.145.63	6	55447	443	21	25	21	2277	1540372909.606888	1540373021.889939	501	0	SSL_with_certificate	100		com.ebay.mobile		c.paypal.com		NOT_REQUIRED		UNKNOWN
+• 130	192.168.20.101	92.122.145.63	6	55448	443	2	4	2	216	1540372909.654889	1540372920.852896	0	0	Other_TCP	0		com.ebay.mobile		c.paypal.com		NOT_REQUIRED		UNKNOWN
+• 124	192.168.20.101	104.86.30.187	6	48887	443	36	28	36	3655	1540372905.254888	1540373021.668942	501	0	SSL_with_certificate	100		com.ebay.mobile		signin.ebay.it		NOT_REQUIRED		OrgName:        Akamai International, BV
+OrgName:        Akamai Technologies, Inc.
+• 21	192.168.20.101	35.153.168.108	6	45270	443	10	13	10	1260	1540372715.786800	1540372720.933094	501	0	SSL_with_certificate	100		UNKNOWN		cdn0.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+• 126	192.168.20.101	66.135.200.43	6	56177	443	10	13	10	2477	1540372907.356889	1540373022.429938	501	0	SSL_with_certificate	100		com.ebay.mobile		ocsrest.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 127	192.168.20.101	66.135.200.43	6	56178	443	2	4	2	198	1540372907.388889	1540372919.351891	0	0	Other_TCP	0		com.ebay.mobile		ocsrest.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 132	192.168.20.101	66.135.197.112	6	33877	443	12	15	12	4028	1540372910.530889	1540373022.251938	501	0	SSL_with_certificate	100		com.ebay.mobile		rover.ebay.com
+rover.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 133	192.168.20.101	66.135.197.112	6	33878	443	2	4	2	198	1540372910.774890	1540372921.471892	0	0	Other_TCP	0		com.ebay.mobile		rover.ebay.com
+rover.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 9	192.168.20.101	216.58.198.10	6	43825	443	19	19	19	2386	1540372712.757795	1540372953.060680	501	0	Google		100		GOOGLE		playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 159	192.168.20.101	216.58.198.35	6	50226	443	42	47	42	3594	1540372934.379905	1540373021.877938	501	0	Google		100		com.ebay.mobile		ssl.gstatic.com		NOT_REQUIRED		OrgName:        Google LLC
+• 104	192.168.20.101	66.135.211.14	6	54617	443	12	15	12	1814	1540372858.473862	1540373017.123937	501	0	eBay		100		EBAY		auth.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 105	192.168.20.101	66.135.211.14	6	59014	443	10	13	10	1716	1540372861.063866	1540373022.290942	501	0	eBay		100		com.ebay.mobile		auth.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 74	192.168.20.101	50.16.162.89	6	33198	443	9	12	9	1645	1540372787.955836	1540372799.369836	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon.com, Inc.
+• 82	192.168.20.101	50.16.162.89	6	37073	443	9	12	9	1648	1540372802.364839	1540372828.406853	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon.com, Inc.
+• 58	192.168.20.101	50.16.162.89	6	52194	443	11	17	11	2717	1540372754.286819	1540372778.356827	501	0	SSL_with_certificate	100		AMAZON		m.api.forter.com		NOT_REQUIRED		OrgName:        Amazon.com, Inc.
+• 107	192.168.20.101	66.135.209.72	6	42990	443	36	40	36	9672	1540372863.373865	1540373021.812940	501	0	eBay		100		com.ebay.mobile		reg.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 108	192.168.20.101	66.135.209.72	6	42991	443	2	4	2	198	1540372863.582870	1540372903.559885	0	0	Other_TCP	0		com.ebay.mobile		reg.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 6	192.168.20.101	66.135.209.82	6	50972	443	11	12	11	2151	1540372711.581797	1540372715.923797	501	0	eBay		100		EBAY		mobidcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 99	192.168.20.101	216.58.205.35	6	53228	443	90	87	90	8597	1540372838.161855	1540373021.664941	501	0	Google		100		com.ebay.mobile		www.google.it		NOT_REQUIRED		OrgName:        Google LLC
+• 135	192.168.20.101	66.135.197.247	6	44816	443	9	12	9	1781	1540372914.929888	1540373022.273940	501	0	eBay		100		com.ebay.mobile		srv.it.ebayrtm.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 136	192.168.20.101	66.135.197.247	6	44817	443	2	4	2	198	1540372915.128891	1540372925.835895	0	0	Other_TCP	0		com.ebay.mobile		srv.it.ebayrtm.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 88	192.168.20.101	66.135.203.168	6	48988	443	17	20	17	6353	1540372822.601846	1540372834.513850	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 102	192.168.20.101	66.135.203.168	6	47797	443	27	35	27	22458	1540372840.510857	1540373021.816943	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 13	192.168.20.101	216.58.205.46	6	56873	443	2	2	2	127	1540372713.044796	1540372713.060210	0	0	Other_TCP	0		GOOGLE		UNKNOWN		mil04s24-in-f14.1e100.net.
+mil04s24-in-f46.1e100.net.		OrgName:        Google LLC
+• 77	192.168.20.101	66.135.211.96	6	34408	443	12	13	12	3554	1540372793.778838	1540372799.476839	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 83	216.58.205.74	192.168.20.101	6	443	42104	3	3	3	144	1540372803.674817	1540372863.702418	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 172	192.168.20.101	66.135.211.96	6	51490	443	0	1	0	60	1540373031.228947	1540373031.228947	0	0	Other_TCP	0		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 62	192.168.20.101	66.135.211.96	6	56157	443	12	16	12	3959	1540372760.543820	1540372770.948826	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 71	192.168.20.101	66.135.211.96	6	58192	443	11	15	11	3909	1540372779.291827	1540372782.769827	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 48	192.168.20.101	66.135.211.97	6	57186	443	14	17	14	5399	1540372744.466812	1540372751.334818	501	0	eBay		100		EBAY		svcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 95	192.168.20.101	216.58.205.100	6	40872	443	86	42	86	3872	1540372830.557853	1540373021.886942	501	0	Google		100		com.ebay.mobile		www.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 43	192.168.20.101	216.58.205.98	6	54434	443	23	26	23	30148	1540372736.082812	1540372963.247911	0	0	Other_TCP	0		GOOGLE		UNKNOWN		mil04s26-in-f2.1e100.net.
+mil04s26-in-f98.1e100.net.		OrgName:        Google LLC
+• 56	192.168.20.101	216.58.205.106	6	49144	443	2	2	2	127	1540372754.108818	1540372754.124732	0	0	Other_TCP	0		GOOGLE		playatoms-pa.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 114	192.168.20.101	66.135.203.234	6	58299	443	12	15	12	3434	1540372866.595866	1540373022.255938	501	0	eBay		100		com.ebay.mobile		rover.ebay.com
+rover.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 115	192.168.20.101	66.135.203.234	6	58300	443	2	4	2	198	1540372866.717866	1540372903.563885	0	0	Other_TCP	0		com.ebay.mobile		rover.ebay.com
+rover.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 140	192.168.20.101	66.135.204.237	6	49619	443	11	14	11	1965	1540372919.277893	1540373022.276940	501	0	eBay		100		com.ebay.mobile		signin.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 141	192.168.20.101	66.135.204.237	6	49620	443	2	4	2	198	1540372919.485893	1540372931.813899	0	0	Other_TCP	0		com.ebay.mobile		signin.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 70	192.168.20.101	66.135.220.36	6	55816	443	11	13	11	2084	1540372777.994829	1540372782.692832	501	0	eBay		100		EBAY		mobixo.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 165	192.168.20.101	66.135.213.210	6	41111	443	9	11	9	2080	1540373012.721937	1540373021.818943	501	0	eBay		100		EBAY		mobidcs.ebay.com		NOT_REQUIRED		OrgName:        eBay, Inc
+• 122	192.168.20.101	66.135.213.240	6	45509	443	9	12	9	1774	1540372903.486888	1540373021.819938	501	0	SSL_with_certificate	100		com.ebay.mobile		reg.ebay.it		NOT_REQUIRED		OrgName:        eBay, Inc
+• 16	192.168.20.101	52.4.25.95	6	43113	443	8	10	8	1167	1540372715.078799	1540372715.681797	501	0	SSL_with_certificate	100		AMAZON		UNKNOWN		ec2-52-4-25-95.compute-1.amazonaws.com.		OrgName:        Amazon Technologies Inc.
+• 24	192.168.20.101	52.4.25.95	6	42413	443	8	10	8	1167	1540372716.452800	1540372717.010800	501	0	SSL_with_certificate	100		AMAZON		UNKNOWN		ec2-52-4-25-95.compute-1.amazonaws.com.		OrgName:        Amazon Technologies Inc.
+• 23	192.168.20.101	157.240.1.18	6	34840	443	11	15	11	3667	1540372715.991797	1540372720.883799	501	0	Facebook	100		FACEBOOK		graph.facebook.com		NOT_REQUIRED		OrgName:        Facebook, Inc.
+• 2	192.168.20.101	157.240.1.18	6	38158	443	12	15	12	1708	1540372709.428796	1540372713.811796	501	0	Facebook	100		FACEBOOK		graph.facebook.com		NOT_REQUIRED		OrgName:        Facebook, Inc.
+• 44	192.168.20.101	66.102.1.101	6	40348	443	1	1	1	75	1540372738.068815	1540372738.099119	0	0	Other_TCP	0		GOOGLE		UNKNOWN		wb-in-f101.1e100.net.		OrgName:        Google LLC
+• 0	66.102.1.101	192.168.20.101	6	443	54005	3	3	3	144	1540372707.556093	1540372767.563704	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 5	192.168.20.101	143.204.15.107	6	58445	443	9	13	9	1438	1540372711.569799	1540372714.500457	501	0	SSL_with_certificate	100		AMAZON		adf0901f1861.cdn4.forter.com		NOT_REQUIRED		OrgName:        Amazon Technologies Inc.
+OrgName:        Amazon.com, Inc.
+• 110	192.168.20.101	104.103.102.72	6	58858	443	259	86	259	6812	1540372865.163867	1540373021.938941	501	0	eBay		100		com.ebay.mobile		ir.ebaystatic.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 111	192.168.20.101	104.103.102.72	6	58859	443	10	13	10	1013	1540372865.209866	1540372900.925884	501	0	eBay		100		com.ebay.mobile		ir.ebaystatic.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 112	192.168.20.101	104.103.102.72	6	58860	443	11	12	11	973	1540372865.270868	1540372900.926886	501	0	eBay		100		com.ebay.mobile		ir.ebaystatic.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 137	192.168.20.101	104.103.102.72	6	58875	443	52	21	52	2030	1540372916.981891	1540372988.488153	501	0	eBay		100		com.ebay.mobile		ir.ebaystatic.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV
+• 138	192.168.20.101	104.103.102.72	6	58876	443	10	13	10	1013	1540372917.262894	1540372929.151898	501	0	eBay		100		com.ebay.mobile		ir.ebaystatic.com		NOT_REQUIRED		OrgName:        Akamai Technologies, Inc.
+OrgName:        Akamai International, BV

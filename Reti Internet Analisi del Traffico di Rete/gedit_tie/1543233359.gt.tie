@@ -1,0 +1,125 @@
+# id	src_ip		dst_ip		proto	sport	dport	dwpkts	uppkts	dwbytes	upbytes	t_start			t_last			app_id	sub_id	app_details	confidence		PACKAGE		DNS		DIG		WHOIS
+• 14	192.168.20.105	8.8.8.8		17	3510	53	1	1	1	62	1543233391.771894	1543233391.809335	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 0	192.168.20.105	8.8.8.8		17	8039	53	1	1	1	76	1543233386.621891	1543233386.677027	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 3	192.168.20.105	8.8.8.8		17	8586	53	1	1	1	62	1543233388.283894	1543233388.332157	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 4	192.168.20.105	8.8.8.8		17	16825	53	1	1	1	61	1543233388.325893	1543233388.380132	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 6	192.168.20.105	8.8.8.8		17	25189	53	1	1	1	89	1543233388.362890	1543233388.426107	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 11	192.168.20.105	8.8.8.8		17	32570	53	1	1	1	70	1543233391.593892	1543233391.643420	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 10	192.168.20.105	178.162.219.154	6	53870	443	9	10	9	1979	1543233391.365893	1543233391.874300	501	0	SSL_with_certificate	100		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 1	192.168.20.105	52.114.76.35	6	57941	443	59	89	59	51800	1543233386.689892	1543233497.190949	501	0	SSL_with_certificate	100		ONEDRIVE		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 25	192.168.20.105	52.114.158.50	6	46726	443	12	15	12	5223	1543233472.378932	1543233480.525818	501	0	SSL_with_certificate	100		ONEDRIVE		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 18	192.168.20.105	52.114.158.53	6	53585	443	12	18	12	6866	1543233433.311912	1543233442.018008	501	0	SSL_with_certificate	100		ONEDRIVE		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 8	192.168.20.105	204.79.197.213	6	41106	443	16	16	16	2105	1543233388.461894	1543233506.504196	501	0	SSL_with_certificate	100		ONEDRIVE		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 9	192.168.20.105	204.79.197.213	6	54238	443	12	11	12	2308	1543233391.341890	1543233455.226084	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 13	192.168.20.105	204.79.197.213	6	54239	443	29	26	29	3077	1543233391.770891	1543233460.061547	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 15	192.168.20.105	204.79.197.213	6	54240	443	31	20	31	2921	1543233391.835894	1543233458.087583	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 23	192.168.20.105	204.79.197.213	6	54241	443	14	13	14	2887	1543233472.008928	1543233539.078116	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 28	192.168.20.105	204.79.197.213	6	54243	443	25	17	25	2657	1543233485.790933	1543233555.036751	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 2	192.168.20.105	224.0.0.251	17	5353	5353	0	13	0	1157	1543233388.268889	1543233474.430930	501	0	MDNS		100		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 21	192.168.20.105	8.8.8.8		17	4674	53	1	1	1	65	1543233456.099925	1543233456.140602	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 27	192.168.20.105	8.8.8.8		17	15819	53	1	1	1	70	1543233485.694934	1543233485.769066	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 17	192.168.20.105	8.8.8.8		17	20010	53	1	1	1	76	1543233433.221914	1543233433.292583	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 24	192.168.20.105	8.8.8.8		17	19072	53	1	1	1	76	1543233472.301931	1543233472.356101	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 19	192.168.20.105	8.8.8.8		17	25345	53	1	1	1	71	1543233455.322920	1543233455.339023	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 26	192.168.20.105	40.90.136.163	6	51985	443	12	15	12	2720	1543233482.288933	1543233603.218988	501	0	SSL_with_certificate	100		com.microsoft.skydrive		storage.live.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 22	192.168.20.105	216.58.198.10	6	49372	443	9	10	9	4513	1543233456.146920	1543233456.303925	501	0	Google		100		GOOGLE		play.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 38	192.168.20.105	204.79.197.213	6	54154	443	13	13	13	1311	1543233616.956995	1543233670.865019	501	0	SSL_with_certificate	100		ONEDRIVE		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 5	192.168.20.105	204.79.197.213	6	54236	443	35	32	35	14406	1543233388.350888	1543233564.066015	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 29	192.168.20.105	204.79.197.213	6	54244	443	185	167	185	9633	1543233495.196938	1543233561.494363	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 40	192.168.20.105	204.79.197.213	6	54246	443	17	16	17	3031	1543233620.332997	1543233670.646021	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 49	192.168.20.105	204.79.197.213	6	54247	443	14	14	14	2939	1543233679.238027	1543233679.855024	501	0	SSL_with_certificate	100		com.microsoft.skydrive		api.onedrive.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+public.ch.files.1drv.com
+eqwgbq.ch.files.1drv.com
+cid-b704dd4eb7a35d15.users.storage.live.com
+api.onedrive.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 33	192.168.20.105	224.0.0.251	17	5353	5353	0	15	0	1335	1543233604.121992	1543233678.743022	501	0	MDNS		100		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 12	76.83.68.88	237.24.204.191	255	0	0	17	18	17	504	1543233391.691708	1543233678.239023	0	0	ARP		0		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 39	192.168.20.105	8.8.4.4		17	65272	53	1	1	1	62	1543233620.150003	1543233620.208578	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-b.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 35	192.168.20.105	8.8.8.8		17	35482	53	1	1	1	76	1543233614.808996	1543233614.882370	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 37	192.168.20.105	8.8.8.8		17	46854	53	1	1	1	89	1543233616.883000	1543233616.942291	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 31	192.168.20.105	8.8.8.8		17	56860	53	1	1	1	62	1543233603.959992	1543233603.998076	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 42	192.168.20.105	8.8.8.8		17	60926	53	1	1	1	71	1543233672.855020	1543233672.870964	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 46	192.168.20.105	8.8.8.8		17	62661	53	1	1	1	76	1543233677.341025	1543233677.391598	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 44	192.168.20.105	8.8.8.8		17	65113	53	1	1	1	62	1543233676.794026	1543233676.837887	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 20	192.168.20.105	40.77.226.250	6	42295	443	60	84	60	96814	1543233455.359922	1543233670.678022	501	0	SSL_with_certificate	100		ONEDRIVE		vortex.data.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 43	192.168.20.105	40.77.226.250	6	59610	443	16	21	16	13784	1543233672.907020	1543233674.148025	501	0	SSL_with_certificate	100		ONEDRIVE		vortex.data.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 48	192.168.20.105	178.162.219.154	6	38802	443	9	9	9	1927	1543233677.499023	1543233677.902326	501	0	SSL_with_certificate	100		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 16	192.168.20.105	40.90.136.163	6	48048	443	7092	11893	7092	17545033 1543233391.837893	1543233673.019887	501	0	SSL_with_certificate	100		ONEDRIVE		storage.live.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 41	192.168.20.105	40.90.136.179	6	40209	443	12	14	12	2225	1543233644.949009	1543233670.674023	501	0	SSL_with_certificate	100		ONEDRIVE		skyapi.live.net		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 7	192.168.20.105	40.90.136.179	6	56644	443	47	58	47	24482	1543233388.445891	1543233670.673020	501	0	SSL_with_certificate	100		com.microsoft.skydrive		skyapi.live.net		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 50	192.168.20.105	216.58.198.10	6	48282	443	12	8	12	1619	1543233680.019025	1543233681.224027	501	0	Google		100		GOOGLE		play.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 47	192.168.20.105	52.114.76.34	6	35098	443	8	13	8	3846	1543233677.444027	1543233682.492028	501	0	SSL_with_certificate	100		ONEDRIVE		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 36	192.168.20.105	52.114.76.35	6	58061	443	23	35	23	14997	1543233614.898002	1543233670.638021	501	0	SSL_with_certificate	100		ONEDRIVE		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 34	192.168.20.105	104.44.88.24	6	50520	443	11	14	11	2656	1543233612.903999	1543233671.283019	501	0	SSL_with_certificate	100		com.microsoft.skydrive		storage.live.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 32	192.168.20.105	104.44.88.24	6	52590	443	318	491	318	701621	1543233604.017993	1543233670.803018	501	0	SSL_with_certificate	100		ONEDRIVE		storage.live.com		NOT_REQUIRED		OrgName:        Microsoft Corporation
+• 45	192.168.20.105	131.253.14.229	6	46356	443	147	223	147	317514	1543233676.866026	1543233685.991027	501	0	SSL_with_certificate	100		ONEDRIVE		storage.live.com		NOT_REQUIRED		OrgName:        Microsoft Corp
+• 30	192.168.20.105	52.114.158.50	6	44150	443	59	84	59	52676	1543233500.455943	1543233671.188021	501	0	SSL_with_certificate	100		ONEDRIVE		mobile.pipe.aria.microsoft.com		NOT_REQUIRED		OrgName:        Microsoft Corporation

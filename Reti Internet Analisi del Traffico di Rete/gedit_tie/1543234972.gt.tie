@@ -1,0 +1,73 @@
+# id	src_ip		dst_ip		proto	sport	dport	dwpkts	uppkts	dwbytes	upbytes	t_start			t_last			app_id	sub_id	app_details	confidence		PACKAGE		DNS		DIG		WHOIS
+• 2	172.217.23.106	192.168.20.105	6	443	46854	3	3	3	144	1543234987.148870	1543235047.172398	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 18	192.168.20.105	8.8.8.8		17	1738	53	1	1	1	81	1543235021.055650	1543235021.102066	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 4	192.168.20.105	8.8.8.8		17	8731	53	1	1	1	65	1543234989.395634	1543234989.427674	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 12	192.168.20.105	8.8.8.8		17	31550	53	1	1	1	74	1543234993.879636	1543234993.913323	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 17	216.58.205.78	192.168.20.105	6	443	33715	3	3	3	144	1543235020.590649	1543235080.628856	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 16	192.168.20.105	216.58.205.78	6	41395	443	1	2	1	135	1543234995.145639	1543234995.203638	0	0	Other_TCP	0		GOOGLE		app-measurement.com		NOT_REQUIRED		OrgName:        Google LLC
+• 15	192.168.20.105	216.58.205.106	6	39634	443	7	6	7	1173	1543234994.979638	1543234995.140640	501	0	Google		100		GOOGLE_MAPS		mobilemaps-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+www.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 14	192.168.20.105	216.58.205.106	6	58146	443	8	8	8	1616	1543234994.946643	1543234995.076641	0	0	Other_TCP	0		GOOGLE_MAPS		mobilemaps-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+www.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 7	192.168.20.105	216.58.205.132	6	43697	443	6	8	6	722	1543234992.240639	1543235002.317639	501	0	Google		100		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f132.1e100.net.
+mil04s27-in-f4.1e100.net.		OrgName:        Google LLC
+• 8	192.168.20.105	216.58.205.132	6	43698	443	6	8	6	722	1543234992.259637	1543235002.334642	501	0	Google		100		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f4.1e100.net.
+mil04s27-in-f132.1e100.net.		OrgName:        Google LLC
+• 9	192.168.20.105	216.58.205.132	6	43699	443	6	8	6	722	1543234992.293642	1543235002.410644	501	0	Google		100		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f132.1e100.net.
+mil04s27-in-f4.1e100.net.		OrgName:        Google LLC
+• 10	192.168.20.105	216.58.205.132	6	43701	443	6	8	6	722	1543234992.312642	1543235002.394643	501	0	Google		100		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f4.1e100.net.
+mil04s27-in-f132.1e100.net.		OrgName:        Google LLC
+• 11	192.168.20.105	216.58.205.202	6	36086	443	8	8	8	1954	1543234993.788642	1543234994.647637	0	0	Other_TCP	0		GOOGLE_MAPS		mobilemaps-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+www.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 23	172.217.23.106	192.168.20.105	6	443	57694	3	3	3	144	1543235106.122493	1543235166.146018	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 19	192.168.20.105	216.58.198.42	6	33504	443	39	31	39	7079	1543235021.113649	1543235042.737724	501	0	Google		100		GOOGLE_MAPS		mobilemaps-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+www.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 30	216.58.198.42	192.168.20.105	6	443	57745	3	5	3	305	1543235156.418121	1543235156.446105	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 22	216.58.205.132	192.168.20.105	6	443	33663	5	1	5	52	1543235071.388705	1543235133.021702	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 21	216.58.205.131	192.168.20.105	6	443	55812	3	3	3	144	1543235068.015471	1543235128.064987	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 20	216.58.205.132	192.168.20.105	6	443	58302	3	4	3	196	1543235067.678648	1543235127.713169	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 28	192.168.20.105	8.8.8.8		17	6058	53	1	1	1	59	1543235150.095708	1543235150.130425	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 24	192.168.20.105	8.8.8.8		17	23243	53	1	1	1	65	1543235125.525699	1543235125.558298	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 26	192.168.20.105	8.8.8.8		17	33562	53	1	1	1	71	1543235142.865707	1543235142.899210	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 43	216.58.198.42	192.168.20.105	6	443	33504	3	5	3	305	1543235282.716911	1543235282.751880	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 33	216.58.205.42	192.168.20.105	6	443	37923	3	3	3	144	1543235162.002203	1543235222.026719	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 32	216.58.205.42	192.168.20.105	6	443	47498	3	3	3	144	1543235161.544433	1543235221.578956	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 25	192.168.20.105	216.58.205.78	6	55664	443	6	7	6	2141	1543235125.565698	1543235125.743698	501	0	SSL_with_certificate	100		GOOGLE		app-measurement.com		NOT_REQUIRED		OrgName:        Google LLC
+• 36	216.58.205.106	192.168.20.105	6	443	39634	2	3	2	150	1543235235.144846	1543235253.961978	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 27	192.168.20.105	216.58.205.129	17	51924	443	2430	1212	2430	75864	1543235142.931708	1543235192.455730	0	0	Other_UDP	0		GOOGLE		lh5.googleusercontent.com		NOT_REQUIRED		OrgName:        Google LLC
+• 1	192.168.20.105	224.0.0.251	17	5353	5353	0	15	0	1335	1543234979.153629	1543235279.195771	501	0	MDNS		100		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 3	76.83.68.88	237.24.204.191	255	0	0	15	16	15	448	1543234988.891709	1543235260.454769	0	0	ARP		0		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 37	192.168.20.105	8.8.4.4		17	62016	53	1	1	1	64	1543235258.905760	1543235258.940365	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-b.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 0	40.90.136.163	192.168.20.105	6	443	43700	13496	8199	13496	457089	1543234972.976303	1543235293.620780	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 13	192.168.20.105	216.58.205.42	17	39365	443	302	192	302	28943	1543234993.969636	1543235239.416605	0	0	Other_UDP	0		GOOGLE_MAPS		mobilemaps-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+www.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 29	192.168.20.105	216.58.205.65	17	50163	443	1806	939	1806	62899	1543235150.209711	1543235197.534734	0	0	Other_UDP	0		GOOGLE		lh5.ggpht.com		NOT_REQUIRED		OrgName:        Google LLC
+• 38	192.168.20.105	216.58.205.74	6	53609	443	9	9	9	2044	1543235258.945760	1543235259.159761	501	0	Google		100		GOOGLE_MAPS		mobilemaps-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+www.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 31	216.58.205.78	192.168.20.105	6	443	46450	2	2	2	98	1543235158.921811	1543235218.944337	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 35	216.58.205.106	192.168.20.105	6	443	58146	2	2	2	98	1543235235.076878	1543235253.906007	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 6	192.168.20.105	216.58.205.132	17	35044	443	745	407	745	43577	1543234991.734641	1543235249.796759	0	0	Other_UDP	0		GOOGLE		UNKNOWN		mil04s27-in-f4.1e100.net.
+mil04s27-in-f132.1e100.net.		OrgName:        Google LLC
+• 39	192.168.20.105	216.58.205.132	6	43697	443	0	1	0	52	1543235259.855761	1543235259.855761	0	0	Other_TCP	0		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f132.1e100.net.
+mil04s27-in-f4.1e100.net.		OrgName:        Google LLC
+• 42	192.168.20.105	216.58.205.132	6	43698	443	0	1	0	52	1543235259.858763	1543235259.858763	0	0	Other_TCP	0		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f4.1e100.net.
+mil04s27-in-f132.1e100.net.		OrgName:        Google LLC
+• 41	192.168.20.105	216.58.205.132	6	43699	443	0	1	0	52	1543235259.857761	1543235259.857761	0	0	Other_TCP	0		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f132.1e100.net.
+mil04s27-in-f4.1e100.net.		OrgName:        Google LLC
+• 40	192.168.20.105	216.58.205.132	6	43701	443	0	1	0	52	1543235259.856764	1543235259.856764	0	0	Other_TCP	0		com.google.android.apps.maps		UNKNOWN		mil04s27-in-f4.1e100.net.
+mil04s27-in-f132.1e100.net.		OrgName:        Google LLC
+• 34	216.58.205.202	192.168.20.105	6	443	36086	1	1	1	52	1543235234.651103	1543235234.693750	0	0	Other_TCP	0		UNKNOWN		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 5	192.168.20.105	172.217.23.78	17	32803	443	562	434	562	111769	1543234989.472639	1543235254.083758	0	0	Other_UDP	0		UNKNOWN		clients4.google.com		NOT_REQUIRED		OrgName:        Google LLC

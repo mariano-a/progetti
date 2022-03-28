@@ -1,0 +1,56 @@
+# id	src_ip		dst_ip		proto	sport	dport	dwpkts	uppkts	dwbytes	upbytes	t_start			t_last			app_id	sub_id	app_details	confidence		PACKAGE		DNS		DIG		WHOIS
+• 36	64.233.167.188	192.168.20.105	6	5228	50447	3	3	3	381	1540373817.382564	1540373817.584451	0	0	Other_TCP	0		IANA		UNKNOWN		UNKNOWN		OrgName:        Internet Assigned Numbers Authority
+• 20	192.168.20.105	209.58.183.136	6	33541	81	6	10	6	543	1540373550.232186	1540373551.337188	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		OrgName:        Asia Pacific Network Information Centre
+• 13	192.168.20.105	43.249.37.129	6	39375	81	6	9	6	491	1540373550.148186	1540373551.523189	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		JSFN035.local.		UNKNOWN
+• 19	192.168.20.105	185.50.104.152	6	44389	81	6	10	6	543	1540373550.226186	1540373552.918187	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by-i3d.net.		org-name:       i3D.net B.V
+• 18	192.168.20.105	139.99.130.217	6	46447	81	6	10	6	543	1540373550.221187	1540373553.428185	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns537241.ip-139-99-130.net.		OrgName:        OVH Australia PTY LTD
+OrgName:        OVH Australia PTY LTD
+• 11	192.168.20.105	66.165.229.98	6	39300	81	6	10	6	543	1540373550.132188	1540373551.506190	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		66-165-229-98.static.hvvc.us.		OrgName:        NOC4Hosts Inc.
+network:Org-Name:Howse, Steven
+• 22	192.168.20.105	213.239.194.144	6	41396	81	6	10	6	543	1540373550.322186	1540373551.209188	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		static.213-239-194-144.clients.your-server.de.		UNKNOWN
+• 14	192.168.20.105	206.221.182.210	6	50606	81	6	10	6	543	1540373550.156186	1540373551.325189	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by.reliablesite.net.		OrgName:        ReliableSite.Net LLC
+• 4	192.168.20.105	104.20.24.135	6	33433	80	4	5	4	863	1540373545.533187	1540373592.001208	501	0	HTTP		100		air.com.hypah.io.slither		slither.io		NOT_REQUIRED		OrgName:        Cloudflare, Inc.
+• 5	192.168.20.105	104.20.24.135	6	33434	80	6	7	6	1588	1540373545.618183	1540373596.063211	501	0	HTTP		100		air.com.hypah.io.slither		slither.io		NOT_REQUIRED		OrgName:        Cloudflare, Inc.
+• 17	192.168.20.105	103.195.101.154	6	36379	81	6	10	6	543	1540373550.220186	1540373551.477194	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		org-name:       ReliableSite.Net LLC
+• 30	76.83.68.88	237.24.204.191	255	0	0	13	13	13	364	1540373567.409902	1540373924.138363	0	0	ARP		0		UNKNOWN		UNKNOWN		UNKNOWN		UNKNOWN
+• 23	192.168.20.105	8.8.4.4		17	44743	53	1	1	1	73	1540373550.660185	1540373550.692059	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-b.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 40	192.168.20.105	8.8.8.8		17	2344	53	1	1	1	65	1540373817.844311	1540373817.878295	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 37	192.168.20.105	8.8.8.8		17	24089	53	1	1	1	72	1540373817.560311	1540373817.598444	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 33	192.168.20.105	8.8.8.8		17	30935	53	1	1	1	75	1540373647.717238	1540373647.750294	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 0	192.168.20.105	8.8.8.8		17	34990	53	1	1	1	56	1540373545.423192	1540373545.461799	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 1	192.168.20.105	8.8.8.8		17	40023	53	1	1	1	56	1540373545.425188	1540373545.464795	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 3	192.168.20.105	8.8.8.8		17	41751	53	1	1	1	56	1540373545.467187	1540373545.505772	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Google LLC
+• 2	192.168.20.105	8.8.8.8		17	48482	53	1	1	1	56	1540373545.464184	1540373545.503774	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 25	192.168.20.105	8.8.8.8		17	51741	53	1	1	1	71	1540373553.748187	1540373553.796438	501	0	DNS		100		GOOGLE		UNKNOWN		google-public-dns-a.google.com.		OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+• 15	192.168.20.105	149.202.217.64	6	51922	81	6	10	6	543	1540373550.174186	1540373551.352186	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3043405.ip-149-202-217.eu.		org-name:       OVH SAS
+• 7	192.168.20.105	147.135.15.106	6	47435	81	6	10	6	543	1540373550.079189	1540373551.360186	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns100819.ip-147-135-15.us.		OrgName:        OVH US LLC
+• 8	192.168.20.105	185.179.200.145	6	51086	81	6	10	6	543	1540373550.086187	1540373552.977190	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by.i3d.net.		UNKNOWN
+• 21	192.168.20.105	149.56.20.72	6	35841	81	6	10	6	543	1540373550.236187	1540373551.290186	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns528489.ip-149-56-20.net.		OrgName:        OVH Hosting, Inc.
+OrgName:        OVH Hosting, Inc.
+• 12	192.168.20.105	31.204.145.96	6	58020	81	6	10	6	543	1540373550.144186	1540373553.427192	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		hosted-by.i3d.net.		UNKNOWN
+• 10	192.168.20.105	79.137.68.169	6	46907	81	6	10	6	543	1540373550.118185	1540373551.277188	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3071301.ip-79-137-68.eu.		org-name:       OVH Sp. z o. o.
+• 29	192.168.20.105	79.137.68.169	6	52394	454	944	1019	944	53783	1540373562.361194	1540373646.879746	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3071301.ip-79-137-68.eu.		org-name:       OVH Sp. z o. o.
+• 35	192.168.20.105	79.137.68.169	6	52397	454	424	435	424	22854	1540373708.612260	1540373733.767295	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3071301.ip-79-137-68.eu.		org-name:       OVH Sp. z o. o.
+• 41	192.168.20.105	216.58.198.42	6	42048	443	26	27	26	20036	1540373817.883312	1540373818.950311	501	0	Google		100		GOOGLE		play.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 43	192.168.20.105	216.58.198.42	6	42234	443	14	13	14	4686	1540373919.095367	1540373919.426360	501	0	Google		100		GOOGLE		play.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 42	192.168.20.105	216.58.198.42	6	59144	443	6	8	6	2395	1540373819.025314	1540373819.179315	501	0	Google		100		GOOGLE		play.googleapis.com		NOT_REQUIRED		OrgName:        Google LLC
+• 16	192.168.20.105	206.191.155.104	6	44577	81	6	10	6	543	1540373550.203189	1540373551.348185	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		UNKNOWN		OrgName:        Internap Corporation
+• 39	192.168.20.105	216.58.205.46	6	48326	443	8	9	8	798	1540373817.615314	1540373817.752311	501	0	Google		100		GOOGLE		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 38	192.168.20.105	216.58.205.46	17	51610	443	10	10	10	5709	1540373817.614311	1540373817.898310	0	0	Other_UDP	0		GOOGLE		android.clients.google.com		NOT_REQUIRED		OrgName:        Google LLC
+• 24	192.168.20.105	216.58.205.98	6	34318	443	69	47	69	16747	1540373550.697188	1540373759.976284	501	0	Google		100		GOOGLE		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 31	192.168.20.105	216.58.205.98	6	42113	443	7	11	7	3421	1540373643.522231	1540373730.491273	501	0	Google		100		GOOGLE		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 26	192.168.20.105	216.58.205.97	6	56119	443	89	73	89	5429	1540373553.829190	1540373794.413571	501	0	Google		100		air.com.hypah.io.slither		tpc.googlesyndication.com		NOT_REQUIRED		OrgName:        Google LLC
+• 27	192.168.20.105	216.58.205.97	6	56120	443	8	10	8	844	1540373553.837189	1540373554.176188	501	0	Google		100		air.com.hypah.io.slither		tpc.googlesyndication.com		NOT_REQUIRED		OrgName:        Google LLC
+• 28	192.168.20.105	216.58.205.97	6	56121	443	8	10	8	844	1540373553.849189	1540373554.171191	501	0	Google		100		air.com.hypah.io.slither		tpc.googlesyndication.com		NOT_REQUIRED		OrgName:        Google LLC
+• 32	192.168.20.105	216.58.205.98	6	54374	443	22	21	22	4506	1540373643.681233	1540373730.747875	501	0	Google		100		air.com.hypah.io.slither		googleads.g.doubleclick.net		NOT_REQUIRED		OrgName:        Google LLC
+• 34	192.168.20.105	216.58.205.130	6	43861	443	21	25	21	3355	1540373647.765237	1540373732.007217	501	0	Google		100		air.com.hypah.io.slither		pagead2.googlesyndication.com		NOT_REQUIRED		OrgName:        Google LLC
+• 6	192.168.20.105	216.58.205.130	6	50146	443	2	2	2	2840	1540373545.653189	1540373545.669686	0	0	Other_TCP	0		GOOGLE		pagead2.googlesyndication.com		NOT_REQUIRED		OrgName:        Google LLC
+• 9	192.168.20.105	145.239.6.18	6	39490	81	6	10	6	543	1540373550.096187	1540373551.283188	0	0	Other_TCP	0		air.com.hypah.io.slither		UNKNOWN		ns3083218.ip-145-239-6.eu.		org-name:       OVH Ltd
