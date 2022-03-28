@@ -1,0 +1,1 @@
+ALTER TABLE album ADD is_disabled BOOLEAN DEFAULT false NOT NULL;

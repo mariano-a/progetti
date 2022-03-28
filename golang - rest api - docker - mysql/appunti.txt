@@ -1,0 +1,164 @@
+//docker run --rm golang:latest printenv
+
+/* METODI & FUNZIONI */
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Vertex struct {
+	X, Y float64
+}
+//METODO
+func (v Vertex) Abs() float64 {
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
+}
+//FUNZIONE
+func Abs(v Vertex) float64 {
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
+}
+//PUNTATORE
+func (v *Vertex) Scale(f float64) {
+	v.X = v.X * f
+	v.Y = v.Y * f
+}
+
+
+func main() {
+	v := Vertex{3, 4}
+	v.Scale(10)	
+
+	fmt.Println(v.Abs())
+
+	fmt.Println(Abs(v))
+}
+
+#####################################################
+type Vertex struct {
+	X, Y float64
+}
+
+func (v *Vertex) Scale(f float64) {
+	v.X = v.X * f
+	v.Y = v.Y * f
+}
+
+func ScaleFunc(v *Vertex, f float64) {
+	v.X = v.X * f
+	v.Y = v.Y * f
+}
+
+func main() {
+	v := Vertex{3, 4}
+	v.Scale(2)
+	ScaleFunc(&v, 10)
+
+	p := &Vertex{4, 3}
+	p.Scale(3)
+	ScaleFunc(p, 8)
+
+	fmt.Println(v, p)
+}
+
+######################
+// Capture connection properties.
+	/*	cfg := mysql.Config{
+		User:   os.Getenv("DBUSER"),
+		Passwd: os.Getenv("DBPASS"),
+		Net:    "tcp",
+		Addr:   "127.0.0.1:3306",
+		DBName: "recordings",
+	}*/
+/*
+	const (
+		username = "docker"
+		password = "docker"
+		host     = "db"
+		port     = "3306"
+		database = "album"
+	)
+	// Get a database handle.
+	var err error
+	var db *sql.DB
+	for {
+		db, err = sql.Open("mysql",
+			fmt.Sprintf("%s:%s@tcp(%s:%s)/%s",
+				username,
+				password,
+				host,
+				port,
+				database,
+			))
+		if err != nil {
+			log.Fatal(err)
+		}
+		err = db.Ping()
+		if err == nil {
+			break
+		}
+	}
+	y := x{
+      db: db, 
+	}  
+	  
+	*/
+############################à
+	for {
+		db, err = sql.Open("mysql",
+			fmt.Sprintf("%s:%s@tcp(%s:%s)/%s",
+				username,
+				password,
+				host,
+				port,
+				database,
+			))
+
+########################################
+
+	var vett * Config
+    contenuto, Err := os.Open("./config.json")
+    if Err != nil {
+        printError("opening config file", err.Error())
+    }
+
+    jsonParser := json.NewDecoder(contenuto)
+    if err2 = jsonParser.Decode(&vett); err2 != nil {
+        printError("parsing config file", err2.Error())
+    }
+
+    fmt.Printf("%v %s %s", v., v., v.)
+    
+#naming convenction 
+
+docker-compose up --build -d
+docker logs -f docker-app-1
+
+Error response from daemon: Ports are not available: listen tcp 0.0.0.0:3306
+netstat -ano | findstr :<PORT>
+taskkill /PID <PID> /F
+
+marshal o Encode: da oggetto a json
+Unmarshal o Decode: da json a oggetto
+
+/*var ins *sql.Stmt
+	
+	ins, err := handlerDB.db.Prepare("INSERT INTO album (title, artist, price) VALUES (?, ?, ?)")
+	if err != nil {
+		panic(err)
+	}
+	defer ins.Close()
+	
+	res , err := ins.Exec(album.Title, album.Artist, album.Price)
+	lastInserted, _ := res.LastInsertId()
+	
+	fmt.Println("ID of last row inserted:", lastInserted)
+	//sqlResult, _ := handlerDB.db.Exec("INSERT INTO album (Title, Artist, Price) VALUES (?, ?, ?)", title, artist, price)
+
+	keyVal := make(map[string]string)
+
+	err := createAlbum(handlerDB,body,keyVal)
+	if err != nil{
+		fmt.Println("Error func")
+	}*/

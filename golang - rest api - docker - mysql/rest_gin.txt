@@ -1,0 +1,48 @@
+//endpoint path
+	router := gin.Default()
+
+	//GET
+	router.GET("/albums", func(c *gin.Context) {
+		c.JSON(http.StatusOK, album)
+	})
+	
+	//POST
+	router.POST("/albums", func(c *gin.Context) {
+		var newAlbum Album
+		
+		// Call BindJSON to bind the received JSON to newAlbum
+		if err := c.BindJSON(&newAlbum); err != nil {
+			return
+		}
+	
+		// Add the new album to the slice.
+		album = append(album, newAlbum)
+		c.IndentedJSON(http.StatusCreated, newAlbum)
+	})
+
+	//GET:id
+	router.GET("/albums/:id", func(c *gin.Context) {
+		//id := c.Param("id")
+		i, _ := strconv.Atoi(c.Param("id"))
+		id := int64(i)
+		// Loop over the list of albums, looking for
+		// an album whose ID value matches the parameter.
+		for _, a := range album {
+			if a.ID == id {
+				c.IndentedJSON(http.StatusOK, a)
+				return
+			}
+		}
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "album not found"})
+	})
+	
+	router.Run("0.0.0.0:8080")
+	//Errore: r.Run("localhost:8080") 127.0.0.1:8080 Ciò fa funzionare il codice dall'interno del contenitore ma non dall'esterno.
+	//Mentre 0.0.0.0:8025 per eseguire l'associazione a tutte le interfacce all'interno del contenitore. 
+	//Quindi anche il traffico proveniente dall'esterno del container viene accettato dall app Go
+
+    http://localhost:8080/albums \
+    --include \
+    --header "Content-Type: application/json" \
+    --request "POST" \
+    --data '{"title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'

@@ -1,0 +1,36 @@
+version: '3.7'
+networks:
+  test:
+volumes:
+  my-datavolume:   
+services:
+  db:
+    image: mysql
+    container_name: golang_db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: album
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: docker    
+    restart: unless-stopped
+    ports:
+      - "3306:3306"
+    networks:
+      - test
+    volumes: 
+      - ./config:/docker-entrypoint-initdb.d #volume temporaneo legato alla vita del container
+      - my-datavolume:/var/lib/mysql #my-datavolume è volume nel host
+    
+  app: 
+    build: .
+    #command: tail -f /dev/null
+    #command: go run /src/app/main.go
+    restart: unless-stopped
+    #volumes: .:/go/src/app
+    ports:
+      - "8080:8080"
+    networks:
+      - test
+  
+
+
